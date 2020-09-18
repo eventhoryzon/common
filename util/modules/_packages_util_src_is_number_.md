@@ -14,7 +14,7 @@
 
 ▸ **isNumber**(`value`: unknown): *value is number*
 
-*Defined in [packages/util/src/is/number.ts:19](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util/src/is/number.ts#L19)*
+*Defined in [packages/util/src/is/number.ts:18](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util/src/is/number.ts#L18)*
 
 **`name`** isNumber
 

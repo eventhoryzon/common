@@ -14,4 +14,4 @@
 
 Ƭ **Prefix**: *number*
 
-*Defined in [packages/util-crypto/src/address/types.ts:7](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/address/types.ts#L7)*
+*Defined in [packages/util-crypto/src/address/types.ts:6](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/address/types.ts#L6)*

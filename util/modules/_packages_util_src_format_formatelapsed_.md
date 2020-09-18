@@ -14,7 +14,7 @@
 
 ▸ **formatElapsed**‹**ExtToBn**›(`now?`: Date | null, `value?`: BN | ExtToBn | Date | number | null): *string*
 
-*Defined in [packages/util/src/format/formatElapsed.ts:25](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util/src/format/formatElapsed.ts#L25)*
+*Defined in [packages/util/src/format/formatElapsed.ts:24](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util/src/format/formatElapsed.ts#L24)*
 
 **Type parameters:**
 

@@ -69,8 +69,6 @@
 * ["packages/util/src/polyfill/padEnd"](modules/_packages_util_src_polyfill_padend_.md)
 * ["packages/util/src/polyfill/padStart"](modules/_packages_util_src_polyfill_padstart_.md)
 * ["packages/util/src/polyfill/setPrototypeOf"](modules/_packages_util_src_polyfill_setprototypeof_.md)
-* ["packages/util/src/polyfill/textDecoder"](modules/_packages_util_src_polyfill_textdecoder_.md)
-* ["packages/util/src/polyfill/textEncoder"](modules/_packages_util_src_polyfill_textencoder_.md)
 * ["packages/util/src/promisify"](modules/_packages_util_src_promisify_.md)
 * ["packages/util/src/string/camelCase"](modules/_packages_util_src_string_camelcase_.md)
 * ["packages/util/src/string/lowerFirst"](modules/_packages_util_src_string_lowerfirst_.md)

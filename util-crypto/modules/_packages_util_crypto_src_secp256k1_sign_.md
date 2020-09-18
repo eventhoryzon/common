@@ -14,7 +14,7 @@
 
 ▸ **secp256k1Sign**(`message`: Uint8Array | string, `__namedParameters`: object, `hashType`: [HashType](_packages_util_crypto_src_secp256k1_types_.md#hashtype)): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/secp256k1/sign.ts:20](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/secp256k1/sign.ts#L20)*
+*Defined in [packages/util-crypto/src/secp256k1/sign.ts:19](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/secp256k1/sign.ts#L19)*
 
 **`name`** secp256k1Sign
 

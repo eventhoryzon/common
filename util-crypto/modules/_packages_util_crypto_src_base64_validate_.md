@@ -14,7 +14,7 @@
 
 ▸ **base64Validate**(`value`: string): *true*
 
-*Defined in [packages/util-crypto/src/base64/validate.ts:11](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/base64/validate.ts#L11)*
+*Defined in [packages/util-crypto/src/base64/validate.ts:10](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/base64/validate.ts#L10)*
 
 **`name`** base64Validate
 

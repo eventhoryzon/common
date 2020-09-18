@@ -15,7 +15,7 @@
 
 ▸ **format**(`value`: unknown): *unknown*
 
-*Defined in [packages/util/src/logger.ts:44](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util/src/logger.ts#L44)*
+*Defined in [packages/util/src/logger.ts:43](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util/src/logger.ts#L43)*
 
 **Parameters:**
 
@@ -31,7 +31,7 @@ ___
 
 ▸ **logger**(`_type`: string): *[Logger](../interfaces/_packages_util_src_types_.logger.md)*
 
-*Defined in [packages/util/src/logger.ts:103](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util/src/logger.ts#L103)*
+*Defined in [packages/util/src/logger.ts:102](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util/src/logger.ts#L102)*
 
 **`name`** Logger
 

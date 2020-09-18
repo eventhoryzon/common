@@ -14,7 +14,7 @@
 
 ▸ **randomAsU8a**(`length`: number): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/random/asU8a.ts:21](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/random/asU8a.ts#L21)*
+*Defined in [packages/util-crypto/src/random/asU8a.ts:20](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/random/asU8a.ts#L20)*
 
 **`name`** randomAsU8a
 

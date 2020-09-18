@@ -14,7 +14,7 @@
 
 ▸ **keyHdkdSr25519**(`keypair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `__namedParameters`: object): *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
 
-*Defined in [packages/util-crypto/src/key/hdkdSr25519.ts:11](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/key/hdkdSr25519.ts#L11)*
+*Defined in [packages/util-crypto/src/key/hdkdSr25519.ts:10](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/key/hdkdSr25519.ts#L10)*
 
 **Parameters:**
 

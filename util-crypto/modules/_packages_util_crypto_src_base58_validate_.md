@@ -15,7 +15,7 @@
 
 ▸ **base58Validate**(`value`: string): *true*
 
-*Defined in [packages/util-crypto/src/base58/validate.ts:23](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/base58/validate.ts#L23)*
+*Defined in [packages/util-crypto/src/base58/validate.ts:22](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/base58/validate.ts#L22)*
 
 **`name`** base58Validate
 
@@ -38,7 +38,7 @@ ___
 
 ▸ **validateChars**(`type`: string, `alphabet`: string, `value`: string): *true*
 
-*Defined in [packages/util-crypto/src/base58/validate.ts:7](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/base58/validate.ts#L7)*
+*Defined in [packages/util-crypto/src/base58/validate.ts:6](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/base58/validate.ts#L6)*
 
 **Parameters:**
 

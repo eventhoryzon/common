@@ -14,7 +14,7 @@
 
 ▸ **encodeMultiAddress**(`who`: (Uint8Array | string)[], `threshold`: BigInt | BN | number, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
 
-*Defined in [packages/util-crypto/src/address/encodeMulti.ts:18](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/address/encodeMulti.ts#L18)*
+*Defined in [packages/util-crypto/src/address/encodeMulti.ts:17](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/address/encodeMulti.ts#L17)*
 
 **`name`** encodeMultiAddress
 

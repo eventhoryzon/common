@@ -14,7 +14,7 @@
 
 ▸ **encode**(`_key`: Uint8Array | string, `ss58Format`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
 
-*Defined in [packages/util-crypto/src/address/encode.ts:16](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/address/encode.ts#L16)*
+*Defined in [packages/util-crypto/src/address/encode.ts:15](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/address/encode.ts#L15)*
 
 **Parameters:**
 

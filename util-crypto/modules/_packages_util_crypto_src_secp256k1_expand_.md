@@ -14,7 +14,7 @@
 
 ▸ **secp256k1Expand**(`publicKey`: Uint8Array): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/secp256k1/expand.ts:11](https://github.com/polkadot-js/common/blob/ce46a6818/packages/util-crypto/src/secp256k1/expand.ts#L11)*
+*Defined in [packages/util-crypto/src/secp256k1/expand.ts:10](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/secp256k1/expand.ts#L10)*
 
 **Parameters:**
 
