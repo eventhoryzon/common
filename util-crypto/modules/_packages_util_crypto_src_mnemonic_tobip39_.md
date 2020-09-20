@@ -14,7 +14,7 @@
 
 ▸ **toBip39**(`mnemonic`: string, `password`: string): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/mnemonic/toBip39.ts:26](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util-crypto/src/mnemonic/toBip39.ts#L26)*
+*Defined in [packages/util-crypto/src/mnemonic/toBip39.ts:26](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util-crypto/src/mnemonic/toBip39.ts#L26)*
 
 **`name`** toSeed
 

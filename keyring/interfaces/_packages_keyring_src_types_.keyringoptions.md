@@ -19,7 +19,7 @@
 
 • **ss58Format**? : *Prefix*
 
-*Defined in [packages/keyring/src/types.ts:8](https://github.com/polkadot-js/common/blob/5c886b0f/packages/keyring/src/types.ts#L8)*
+*Defined in [packages/keyring/src/types.ts:8](https://github.com/polkadot-js/common/blob/e7c665e5/packages/keyring/src/types.ts#L8)*
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 • **type**? : *KeypairType*
 
-*Defined in [packages/keyring/src/types.ts:9](https://github.com/polkadot-js/common/blob/5c886b0f/packages/keyring/src/types.ts#L9)*
+*Defined in [packages/keyring/src/types.ts:9](https://github.com/polkadot-js/common/blob/e7c665e5/packages/keyring/src/types.ts#L9)*

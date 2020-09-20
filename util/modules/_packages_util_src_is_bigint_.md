@@ -14,7 +14,7 @@
 
 ▸ **isBigInt**(`value`: unknown): *value is BigInt*
 
-*Defined in [packages/util/src/is/bigInt.ts:18](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util/src/is/bigInt.ts#L18)*
+*Defined in [packages/util/src/is/bigInt.ts:18](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util/src/is/bigInt.ts#L18)*
 
 **`name`** isBigInt
 

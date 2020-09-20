@@ -14,7 +14,7 @@
 
 ▸ **hexFixLength**(`value`: string, `bitLength`: number, `withPadding`: boolean): *string*
 
-*Defined in [packages/util/src/hex/fixLength.ts:23](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util/src/hex/fixLength.ts#L23)*
+*Defined in [packages/util/src/hex/fixLength.ts:23](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util/src/hex/fixLength.ts#L23)*
 
 **`name`** hexFixLength
 

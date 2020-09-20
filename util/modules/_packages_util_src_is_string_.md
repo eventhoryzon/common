@@ -14,7 +14,7 @@
 
 ▸ **isString**(`value`: unknown): *value is string | String*
 
-*Defined in [packages/util/src/is/string.ts:19](https://github.com/polkadot-js/common/blob/5c886b0f/packages/util/src/is/string.ts#L19)*
+*Defined in [packages/util/src/is/string.ts:19](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util/src/is/string.ts#L19)*
 
 **`name`** isString
 
