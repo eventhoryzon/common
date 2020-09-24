@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/hex/toBn"](_packages_util_src_hex_tobn_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/hex/toBn"
 
 # Module: "packages/util/src/hex/toBn"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  hexToBn
+### hexToBn
 
-▸ **hexToBn**(`value?`: string | number | null, `options`: [ToBnOptions](../interfaces/_packages_util_src_types_.tobnoptions.md) | boolean): *BN*
+▸ **hexToBn**(`value?`: string \| number \| null, `options`: [ToBnOptions](../interfaces/_packages_util_src_types_.tobnoptions.md) \| boolean): BN
 
-*Defined in [packages/util/src/hex/toBn.ts:34](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/hex/toBn.ts#L34)*
+*Defined in [packages/util/src/hex/toBn.ts:34](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/hex/toBn.ts#L34)*
 
 **`name`** hexToBn
 
@@ -32,11 +34,11 @@ import { hexToBn } from '@polkadot/util';
 hexToBn('0x123480001f'); // => BN(0x123480001f)
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`value?` | string &#124; number &#124; null | - |
-`options` | [ToBnOptions](../interfaces/_packages_util_src_types_.tobnoptions.md) &#124; boolean | { isLe: false, isNegative: false } |
+`value?` | string \| number \| null | - |
+`options` | [ToBnOptions](../interfaces/_packages_util_src_types_.tobnoptions.md) \| boolean | { isLe: false, isNegative: false } |
 
-**Returns:** *BN*
+**Returns:** BN

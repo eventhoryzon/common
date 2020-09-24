@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/observable"](_packages_util_src_is_observable_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/observable"
 
 # Module: "packages/util/src/is/observable"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isObservable
+### isObservable
 
-▸ **isObservable**(`value`: unknown): *value is Observable*
+▸ **isObservable**(`value`: unknown): value is Observable
 
-*Defined in [packages/util/src/is/observable.ts:26](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/observable.ts#L26)*
+*Defined in [packages/util/src/is/observable.ts:26](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/observable.ts#L26)*
 
 **`name`** isBObservable
 
@@ -32,10 +34,10 @@ import { isObservable } from '@polkadot/util';
 console.log('isObservable', isObservable(...));
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *value is Observable*
+**Returns:** value is Observable

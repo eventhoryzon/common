@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/u8a/fixLength"](_packages_util_src_u8a_fixlength_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/u8a/fixLength"
 
 # Module: "packages/util/src/u8a/fixLength"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  u8aFixLength
+### u8aFixLength
 
-▸ **u8aFixLength**(`value`: Uint8Array, `bitLength`: number, `atStart`: boolean): *Uint8Array*
+▸ **u8aFixLength**(`value`: Uint8Array, `bitLength`: number, `atStart`: boolean): Uint8Array
 
-*Defined in [packages/util/src/u8a/fixLength.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/u8a/fixLength.ts#L20)*
+*Defined in [packages/util/src/u8a/fixLength.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/u8a/fixLength.ts#L20)*
 
 **`name`** u8aFixLength
 
@@ -34,12 +36,12 @@ u8aFixLength('0x12', 16) // => 0x0012
 u8aFixLength('0x1234', 8) // => 0x12
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
 `value` | Uint8Array | - |
 `bitLength` | number | -1 |
 `atStart` | boolean | false |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

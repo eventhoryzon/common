@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/schnorrkel/derivePublic"](_packages_util_crypto_src_schnorrkel_derivepublic_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/schnorrkel/derivePublic"
 
 # Module: "packages/util-crypto/src/schnorrkel/derivePublic"
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  deriveSoft
+### deriveSoft
 
-▸ **deriveSoft**(`publicKey`: Uint8Array, `chainCode`: Uint8Array): *Uint8Array*
+▸ **deriveSoft**(`publicKey`: Uint8Array, `chainCode`: Uint8Array): Uint8Array
 
-*Defined in [packages/util-crypto/src/schnorrkel/derivePublic.ts:8](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/schnorrkel/derivePublic.ts#L8)*
+*Defined in [packages/util-crypto/src/schnorrkel/derivePublic.ts:8](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/schnorrkel/derivePublic.ts#L8)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `publicKey` | Uint8Array |
 `chainCode` | Uint8Array |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base32/validate"](_packages_util_crypto_src_base32_validate_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base32/validate"
 
 # Module: "packages/util-crypto/src/base32/validate"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  base32Validate
+### base32Validate
 
-▸ **base32Validate**(`value?`: string | null, `ipfsCompat`: boolean): *true*
+▸ **base32Validate**(`value?`: string \| null, `ipfsCompat`: boolean): true
 
-*Defined in [packages/util-crypto/src/base32/validate.ts:13](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base32/validate.ts#L13)*
+*Defined in [packages/util-crypto/src/base32/validate.ts:13](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base32/validate.ts#L13)*
 
 **`name`** base32Validate
 
@@ -23,11 +25,11 @@
 **`description`** 
 Validates the the supplied value is valid base32
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`value?` | string &#124; null | - |
+`value?` | string \| null | - |
 `ipfsCompat` | boolean | false |
 
-**Returns:** *true*
+**Returns:** true

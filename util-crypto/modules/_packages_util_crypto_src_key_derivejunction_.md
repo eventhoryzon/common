@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/key/DeriveJunction"](_packages_util_crypto_src_key_derivejunction_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/key/DeriveJunction"
 
 # Module: "packages/util-crypto/src/key/DeriveJunction"
 

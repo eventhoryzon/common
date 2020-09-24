@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/number"](_packages_util_src_is_number_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/number"
 
 # Module: "packages/util/src/is/number"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isNumber
+### isNumber
 
-▸ **isNumber**(`value`: unknown): *value is number*
+▸ **isNumber**(`value`: unknown): value is number
 
-*Defined in [packages/util/src/is/number.ts:18](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/number.ts#L18)*
+*Defined in [packages/util/src/is/number.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/number.ts#L18)*
 
 **`name`** isNumber
 
@@ -32,10 +34,10 @@ import { isNumber } from '@polkadot/util';
 console.log('isNumber', isNumber(1234)); // => true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *value is number*
+**Returns:** value is number

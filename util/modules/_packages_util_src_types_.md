@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/types"](_packages_util_src_types_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/types"
 
 # Module: "packages/util/src/types"
 
@@ -16,20 +18,20 @@
 ### Type aliases
 
 * [BnList](_packages_util_src_types_.md#bnlist)
-* [Logger$Data](_packages_util_src_types_.md#loggerdata)
+* [Logger$Data](_packages_util_src_types_.md#logger$data)
 
 ## Type aliases
 
-###  BnList
+### BnList
 
-Ƭ **BnList**: *object & BN[]*
+Ƭ  **BnList**: { 0: BN ; 1: BN  } & BN[]
 
-*Defined in [packages/util/src/types.ts:38](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L38)*
+*Defined in [packages/util/src/types.ts:38](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L38)*
 
 ___
 
-###  Logger$Data
+### Logger$Data
 
-Ƭ **Logger$Data**: *(unknown | Logger$Data$Fn)[]*
+Ƭ  **Logger$Data**: (unknown \| Logger$Data$Fn)[]
 
-*Defined in [packages/util/src/types.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L23)*
+*Defined in [packages/util/src/types.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L23)*

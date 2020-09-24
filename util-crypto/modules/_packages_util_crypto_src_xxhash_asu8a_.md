@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/xxhash/asU8a"](_packages_util_crypto_src_xxhash_asu8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/xxhash/asU8a"
 
 # Module: "packages/util-crypto/src/xxhash/asU8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  xxhashAsU8a
+### xxhashAsU8a
 
-▸ **xxhashAsU8a**(`data`: Buffer | Uint8Array | string, `bitLength`: number): *Uint8Array*
+▸ **xxhashAsU8a**(`data`: Buffer \| Uint8Array \| string, `bitLength`: number): Uint8Array
 
-*Defined in [packages/util-crypto/src/xxhash/asU8a.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/xxhash/asU8a.ts#L23)*
+*Defined in [packages/util-crypto/src/xxhash/asU8a.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/xxhash/asU8a.ts#L23)*
 
 **`name`** xxhashAsU8a
 
@@ -32,11 +34,11 @@ import { xxhashAsU8a } from '@polkadot/util-crypto';
 xxhashAsU8a('abc'); // => 0x44bc2cf5ad770999
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`data` | Buffer &#124; Uint8Array &#124; string | - |
+`data` | Buffer \| Uint8Array \| string | - |
 `bitLength` | number | 64 |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

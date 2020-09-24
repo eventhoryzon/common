@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/hex/addPrefix"](_packages_util_src_hex_addprefix_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/hex/addPrefix"
 
 # Module: "packages/util/src/hex/addPrefix"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  hexAddPrefix
+### hexAddPrefix
 
-▸ **hexAddPrefix**(`value?`: string | null): *string*
+▸ **hexAddPrefix**(`value?`: string \| null): string
 
-*Defined in [packages/util/src/hex/addPrefix.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/hex/addPrefix.ts#L20)*
+*Defined in [packages/util/src/hex/addPrefix.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/hex/addPrefix.ts#L20)*
 
 **`name`** hexAddPrefix
 
@@ -32,10 +34,10 @@ import { hexAddPrefix } from '@polkadot/util';
 console.log('With prefix', hexAddPrefix('0a0b12')); // => 0x0a0b12
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
+`value?` | string \| null |
 
-**Returns:** *string*
+**Returns:** string

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base32/is"](_packages_util_crypto_src_base32_is_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base32/is"
 
 # Module: "packages/util-crypto/src/base32/is"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  isBase32
+### isBase32
 
-▸ **isBase32**(`value?`: string | null): *boolean*
+▸ **isBase32**(`value?`: string \| null): boolean
 
-*Defined in [packages/util-crypto/src/base32/is.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base32/is.ts#L6)*
+*Defined in [packages/util-crypto/src/base32/is.ts:6](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base32/is.ts#L6)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
+`value?` | string \| null |
 
-**Returns:** *boolean*
+**Returns:** boolean

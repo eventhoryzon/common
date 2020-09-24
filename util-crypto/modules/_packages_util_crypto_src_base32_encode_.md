@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base32/encode"](_packages_util_crypto_src_base32_encode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base32/encode"
 
 # Module: "packages/util-crypto/src/base32/encode"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  base32Encode
+### base32Encode
 
-▸ **base32Encode**(`value`: Uint8Array | string | Buffer | number[], `ipfsCompat`: boolean): *string*
+▸ **base32Encode**(`value`: Uint8Array \| string \| Buffer \| number[], `ipfsCompat`: boolean): string
 
-*Defined in [packages/util-crypto/src/base32/encode.ts:18](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base32/encode.ts#L18)*
+*Defined in [packages/util-crypto/src/base32/encode.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base32/encode.ts#L18)*
 
 **`name`** base32Encode
 
@@ -23,11 +25,11 @@
 **`description`** 
 From the provided input, create the base32 and return the result as a string.
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`value` | Uint8Array &#124; string &#124; Buffer &#124; number[] | - |
+`value` | Uint8Array \| string \| Buffer \| number[] | - |
 `ipfsCompat` | boolean | false |
 
-**Returns:** *string*
+**Returns:** string

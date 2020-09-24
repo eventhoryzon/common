@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base58/bs58"](_packages_util_crypto_src_base58_bs58_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base58/bs58"
 
 # Module: "packages/util-crypto/src/base58/bs58"
 
@@ -6,21 +8,21 @@
 
 ### Variables
 
-* [BASE58_ALPHABET](_packages_util_crypto_src_base58_bs58_.md#const-base58_alphabet)
-* [bs58](_packages_util_crypto_src_base58_bs58_.md#const-bs58)
+* [BASE58\_ALPHABET](_packages_util_crypto_src_base58_bs58_.md#base58_alphabet)
+* [bs58](_packages_util_crypto_src_base58_bs58_.md#bs58)
 
 ## Variables
 
-### `Const` BASE58_ALPHABET
+### BASE58\_ALPHABET
 
-• **BASE58_ALPHABET**: *"123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"* = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
+• `Const` **BASE58\_ALPHABET**: \"123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz\" = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
 
-*Defined in [packages/util-crypto/src/base58/bs58.ts:7](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base58/bs58.ts#L7)*
+*Defined in [packages/util-crypto/src/base58/bs58.ts:7](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base58/bs58.ts#L7)*
 
 ___
 
-### `Const` bs58
+### bs58
 
-• **bs58**: *BaseConverter* = baseX(BASE58_ALPHABET)
+• `Const` **bs58**: BaseConverter = baseX(BASE58\_ALPHABET)
 
-*Defined in [packages/util-crypto/src/base58/bs58.ts:9](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base58/bs58.ts#L9)*
+*Defined in [packages/util-crypto/src/base58/bs58.ts:9](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base58/bs58.ts#L9)*

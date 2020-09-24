@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/ethereum/isChecksum"](_packages_util_crypto_src_ethereum_ischecksum_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/ethereum/isChecksum"
 
 # Module: "packages/util-crypto/src/ethereum/isChecksum"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  isEthereumChecksum
+### isEthereumChecksum
 
-▸ **isEthereumChecksum**(`_address`: string): *boolean*
+▸ **isEthereumChecksum**(`_address`: string): boolean
 
-*Defined in [packages/util-crypto/src/ethereum/isChecksum.ts:8](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/ethereum/isChecksum.ts#L8)*
+*Defined in [packages/util-crypto/src/ethereum/isChecksum.ts:8](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/ethereum/isChecksum.ts#L8)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `_address` | string |
 
-**Returns:** *boolean*
+**Returns:** boolean

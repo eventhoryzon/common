@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/jsonObject"](_packages_util_src_is_jsonobject_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/jsonObject"
 
 # Module: "packages/util/src/is/jsonObject"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isJsonObject
+### isJsonObject
 
-▸ **isJsonObject**(`value`: unknown): *value is ObjectIndexed*
+▸ **isJsonObject**(`value`: unknown): value is ObjectIndexed
 
-*Defined in [packages/util/src/is/jsonObject.ts:33](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/jsonObject.ts#L33)*
+*Defined in [packages/util/src/is/jsonObject.ts:33](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/jsonObject.ts#L33)*
 
 **`name`** isJsonObject
 
@@ -42,10 +44,10 @@ isJsonObject(null); // JSON parsable, but not an object => false
 isJsonObject('not an object'); // => false
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *value is ObjectIndexed*
+**Returns:** value is ObjectIndexed

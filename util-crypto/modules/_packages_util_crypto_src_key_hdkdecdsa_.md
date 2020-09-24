@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/key/hdkdEcdsa"](_packages_util_crypto_src_key_hdkdecdsa_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/key/hdkdEcdsa"
 
 # Module: "packages/util-crypto/src/key/hdkdEcdsa"
 
@@ -10,21 +12,17 @@
 
 ## Functions
 
-###  keyHdkdEcdsa
+### keyHdkdEcdsa
 
-▸ **keyHdkdEcdsa**(`keypair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `__namedParameters`: object): *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+▸ **keyHdkdEcdsa**(`keypair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `__namedParameters`: { chainCode: Uint8Array ; isHard: boolean  }): [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)
 
-*Defined in [packages/util-crypto/src/key/hdkdEcdsa.ts:12](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/key/hdkdEcdsa.ts#L12)*
+*Defined in [packages/util-crypto/src/key/hdkdEcdsa.ts:12](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/key/hdkdEcdsa.ts#L12)*
 
-**Parameters:**
-
-▪ **keypair**: *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`chainCode` | Uint8Array‹› |
-`isHard` | boolean |
+`keypair` | [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md) |
+`__namedParameters` | { chainCode: Uint8Array ; isHard: boolean  } |
 
-**Returns:** *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+**Returns:** [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)

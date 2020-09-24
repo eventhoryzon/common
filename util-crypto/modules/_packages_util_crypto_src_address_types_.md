@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/types"](_packages_util_crypto_src_address_types_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/types"
 
 # Module: "packages/util-crypto/src/address/types"
 
@@ -10,8 +12,8 @@
 
 ## Type aliases
 
-###  Prefix
+### Prefix
 
-Ƭ **Prefix**: *number*
+Ƭ  **Prefix**: number
 
-*Defined in [packages/util-crypto/src/address/types.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/types.ts#L6)*
+*Defined in [packages/util-crypto/src/address/types.ts:6](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/types.ts#L6)*

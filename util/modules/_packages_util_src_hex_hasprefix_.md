@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/hex/hasPrefix"](_packages_util_src_hex_hasprefix_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/hex/hasPrefix"
 
 # Module: "packages/util/src/hex/hasPrefix"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  hexHasPrefix
+### hexHasPrefix
 
-▸ **hexHasPrefix**(`value?`: string | null): *boolean*
+▸ **hexHasPrefix**(`value?`: string \| null): boolean
 
-*Defined in [packages/util/src/hex/hasPrefix.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/hex/hasPrefix.ts#L20)*
+*Defined in [packages/util/src/hex/hasPrefix.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/hex/hasPrefix.ts#L20)*
 
 **`name`** hexHasPrefix
 
@@ -32,10 +34,10 @@ import { hexHasPrefix } from '@polkadot/util';
 console.log('has prefix', hexHasPrefix('0x1234')); // => true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
+`value?` | string \| null |
 
-**Returns:** *boolean*
+**Returns:** boolean

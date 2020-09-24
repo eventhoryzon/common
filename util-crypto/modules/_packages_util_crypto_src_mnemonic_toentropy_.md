@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/mnemonic/toEntropy"](_packages_util_crypto_src_mnemonic_toentropy_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/mnemonic/toEntropy"
 
 # Module: "packages/util-crypto/src/mnemonic/toEntropy"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  toEntropy
+### toEntropy
 
-▸ **toEntropy**(`mnemonic`: string): *Uint8Array*
+▸ **toEntropy**(`mnemonic`: string): Uint8Array
 
-*Defined in [packages/util-crypto/src/mnemonic/toEntropy.ts:10](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/mnemonic/toEntropy.ts#L10)*
+*Defined in [packages/util-crypto/src/mnemonic/toEntropy.ts:10](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/mnemonic/toEntropy.ts#L10)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `mnemonic` | string |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

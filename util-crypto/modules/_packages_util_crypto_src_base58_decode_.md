@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base58/decode"](_packages_util_crypto_src_base58_decode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base58/decode"
 
 # Module: "packages/util-crypto/src/base58/decode"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  base58Decode
+### base58Decode
 
-▸ **base58Decode**(`value`: string, `ipfsCompat?`: undefined | false | true): *Uint8Array*
+▸ **base58Decode**(`value`: string, `ipfsCompat?`: undefined \| false \| true): Uint8Array
 
-*Defined in [packages/util-crypto/src/base58/decode.ts:15](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base58/decode.ts#L15)*
+*Defined in [packages/util-crypto/src/base58/decode.ts:15](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base58/decode.ts#L15)*
 
 **`name`** base58Decode
 
@@ -23,11 +25,11 @@
 **`description`** 
 From the provided input, decode the base58 and return the result as an `Uint8Array`.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | string |
-`ipfsCompat?` | undefined &#124; false &#124; true |
+`ipfsCompat?` | undefined \| false \| true |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

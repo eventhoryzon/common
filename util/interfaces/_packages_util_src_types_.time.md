@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/types"](../modules/_packages_util_src_types_.md) › [Time](_packages_util_src_types_.time.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/util/src/types"](../modules/_packages_util_src_types_.md) / Time
 
 # Interface: Time
 
@@ -18,40 +20,40 @@
 
 ## Properties
 
-###  days
+### days
 
-• **days**: *number*
+•  **days**: number
 
-*Defined in [packages/util/src/types.ts:44](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L44)*
-
-___
-
-###  hours
-
-• **hours**: *number*
-
-*Defined in [packages/util/src/types.ts:45](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L45)*
+*Defined in [packages/util/src/types.ts:44](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L44)*
 
 ___
 
-###  milliseconds
+### hours
 
-• **milliseconds**: *number*
+•  **hours**: number
 
-*Defined in [packages/util/src/types.ts:48](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L48)*
-
-___
-
-###  minutes
-
-• **minutes**: *number*
-
-*Defined in [packages/util/src/types.ts:46](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L46)*
+*Defined in [packages/util/src/types.ts:45](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L45)*
 
 ___
 
-###  seconds
+### milliseconds
 
-• **seconds**: *number*
+•  **milliseconds**: number
 
-*Defined in [packages/util/src/types.ts:47](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L47)*
+*Defined in [packages/util/src/types.ts:48](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L48)*
+
+___
+
+### minutes
+
+•  **minutes**: number
+
+*Defined in [packages/util/src/types.ts:46](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L46)*
+
+___
+
+### seconds
+
+•  **seconds**: number
+
+*Defined in [packages/util/src/types.ts:47](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L47)*

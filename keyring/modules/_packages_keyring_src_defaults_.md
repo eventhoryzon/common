@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/defaults"](_packages_keyring_src_defaults_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/keyring/src/defaults"
 
 # Module: "packages/keyring/src/defaults"
 
@@ -6,21 +8,21 @@
 
 ### Variables
 
-* [DEV_PHRASE](_packages_keyring_src_defaults_.md#const-dev_phrase)
-* [DEV_SEED](_packages_keyring_src_defaults_.md#const-dev_seed)
+* [DEV\_PHRASE](_packages_keyring_src_defaults_.md#dev_phrase)
+* [DEV\_SEED](_packages_keyring_src_defaults_.md#dev_seed)
 
 ## Variables
 
-### `Const` DEV_PHRASE
+### DEV\_PHRASE
 
-• **DEV_PHRASE**: *"bottom drive obey lake curtain smoke basket hold race lonely fit walk"* = "bottom drive obey lake curtain smoke basket hold race lonely fit walk"
+• `Const` **DEV\_PHRASE**: \"bottom drive obey lake curtain smoke basket hold race lonely fit walk\" = "bottom drive obey lake curtain smoke basket hold race lonely fit walk"
 
-*Defined in [packages/keyring/src/defaults.ts:5](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/defaults.ts#L5)*
+*Defined in [packages/keyring/src/defaults.ts:5](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/defaults.ts#L5)*
 
 ___
 
-### `Const` DEV_SEED
+### DEV\_SEED
 
-• **DEV_SEED**: *"0xfac7959dbfe72f052e5a0c3c8d6530f202b02fd8f9f5ca3580ec8deb7797479e"* = "0xfac7959dbfe72f052e5a0c3c8d6530f202b02fd8f9f5ca3580ec8deb7797479e"
+• `Const` **DEV\_SEED**: \"0xfac7959dbfe72f052e5a0c3c8d6530f202b02fd8f9f5ca3580ec8deb7797479e\" = "0xfac7959dbfe72f052e5a0c3c8d6530f202b02fd8f9f5ca3580ec8deb7797479e"
 
-*Defined in [packages/keyring/src/defaults.ts:8](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/defaults.ts#L8)*
+*Defined in [packages/keyring/src/defaults.ts:8](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/defaults.ts#L8)*

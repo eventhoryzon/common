@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/key/hdkdEd25519"](_packages_util_crypto_src_key_hdkded25519_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/key/hdkdEd25519"
 
 # Module: "packages/util-crypto/src/key/hdkdEd25519"
 
@@ -10,21 +12,17 @@
 
 ## Functions
 
-###  keyHdkdEd25519
+### keyHdkdEd25519
 
-▸ **keyHdkdEd25519**(`keypair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `__namedParameters`: object): *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+▸ **keyHdkdEd25519**(`keypair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `__namedParameters`: { chainCode: Uint8Array ; isHard: boolean  }): [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)
 
-*Defined in [packages/util-crypto/src/key/hdkdEd25519.ts:12](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/key/hdkdEd25519.ts#L12)*
+*Defined in [packages/util-crypto/src/key/hdkdEd25519.ts:12](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/key/hdkdEd25519.ts#L12)*
 
-**Parameters:**
-
-▪ **keypair**: *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`chainCode` | Uint8Array‹› |
-`isHard` | boolean |
+`keypair` | [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md) |
+`__namedParameters` | { chainCode: Uint8Array ; isHard: boolean  } |
 
-**Returns:** *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+**Returns:** [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)

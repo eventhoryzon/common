@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/types"](_packages_keyring_src_types_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/keyring/src/types"
 
 # Module: "packages/keyring/src/types"
 
@@ -16,30 +18,30 @@
 
 ### Type aliases
 
-* [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpairjsonencodingtypes)
-* [KeyringPair$JsonVersion](_packages_keyring_src_types_.md#keyringpairjsonversion)
-* [KeyringPair$Meta](_packages_keyring_src_types_.md#keyringpairmeta)
+* [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpair$jsonencodingtypes)
+* [KeyringPair$JsonVersion](_packages_keyring_src_types_.md#keyringpair$jsonversion)
+* [KeyringPair$Meta](_packages_keyring_src_types_.md#keyringpair$meta)
 
 ## Type aliases
 
-###  KeyringPair$JsonEncodingTypes
+### KeyringPair$JsonEncodingTypes
 
-Ƭ **KeyringPair$JsonEncodingTypes**: *"none" | "scrypt" | "xsalsa20-poly1305"*
+Ƭ  **KeyringPair$JsonEncodingTypes**: \"none\" \| \"scrypt\" \| \"xsalsa20-poly1305\"
 
-*Defined in [packages/keyring/src/types.ts:16](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L16)*
-
-___
-
-###  KeyringPair$JsonVersion
-
-Ƭ **KeyringPair$JsonVersion**: *"0" | "1" | "2" | "3"*
-
-*Defined in [packages/keyring/src/types.ts:14](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L14)*
+*Defined in [packages/keyring/src/types.ts:16](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L16)*
 
 ___
 
-###  KeyringPair$Meta
+### KeyringPair$JsonVersion
 
-Ƭ **KeyringPair$Meta**: *Record‹string, unknown›*
+Ƭ  **KeyringPair$JsonVersion**: \"0\" \| \"1\" \| \"2\" \| \"3\"
 
-*Defined in [packages/keyring/src/types.ts:12](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L12)*
+*Defined in [packages/keyring/src/types.ts:14](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L14)*
+
+___
+
+### KeyringPair$Meta
+
+Ƭ  **KeyringPair$Meta**: Record\<string, unknown>
+
+*Defined in [packages/keyring/src/types.ts:12](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L12)*

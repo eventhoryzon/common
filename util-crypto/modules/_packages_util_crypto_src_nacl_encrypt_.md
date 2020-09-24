@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/nacl/encrypt"](_packages_util_crypto_src_nacl_encrypt_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/nacl/encrypt"
 
 # Module: "packages/util-crypto/src/nacl/encrypt"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  naclEncrypt
+### naclEncrypt
 
-▸ **naclEncrypt**(`message`: Uint8Array, `secret`: Uint8Array, `nonce`: Uint8Array): *Encrypted*
+▸ **naclEncrypt**(`message`: Uint8Array, `secret`: Uint8Array, `nonce`: Uint8Array): Encrypted
 
-*Defined in [packages/util-crypto/src/nacl/encrypt.ts:27](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/nacl/encrypt.ts#L27)*
+*Defined in [packages/util-crypto/src/nacl/encrypt.ts:27](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/nacl/encrypt.ts#L27)*
 
 **`name`** naclEncrypt
 
@@ -32,12 +34,12 @@ import { naclEncrypt } from '@polkadot/util-crypto';
 naclEncrypt([...], [...]); // => [...]
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
 `message` | Uint8Array | - |
 `secret` | Uint8Array | - |
 `nonce` | Uint8Array | randomAsU8a(24) |
 
-**Returns:** *Encrypted*
+**Returns:** Encrypted

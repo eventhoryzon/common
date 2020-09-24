@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/string/toU8a"](_packages_util_src_string_tou8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/string/toU8a"
 
 # Module: "packages/util/src/string/toU8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  stringToU8a
+### stringToU8a
 
-▸ **stringToU8a**(`value?`: undefined | string): *Uint8Array*
+▸ **stringToU8a**(`value?`: undefined \| string): Uint8Array
 
-*Defined in [packages/util/src/string/toU8a.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/string/toU8a.ts#L22)*
+*Defined in [packages/util/src/string/toU8a.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/string/toU8a.ts#L22)*
 
 **`name`** stringToU8a
 
@@ -32,10 +34,10 @@ import { stringToU8a } from '@polkadot/util';
 stringToU8a('hello'); // [0x68, 0x65, 0x6c, 0x6c, 0x6f]
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | undefined &#124; string |
+`value?` | undefined \| string |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

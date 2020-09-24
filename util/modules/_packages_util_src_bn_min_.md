@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/bn/min"](_packages_util_src_bn_min_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/bn/min"
 
 # Module: "packages/util/src/bn/min"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  min
+### min
 
-▸ **min**(...`items`: BN[]): *BN*
+▸ **min**(...`items`: BN[]): BN
 
-*Defined in [packages/util/src/bn/min.ts:21](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/bn/min.ts#L21)*
+*Defined in [packages/util/src/bn/min.ts:21](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/bn/min.ts#L21)*
 
 **`name`** bnMin
 
@@ -30,10 +32,10 @@ import { bnMin } from '@polkadot/util';
 bnMin([new BN(1), new BN(3), new BN(2)]).toString(); // => '1'
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `...items` | BN[] |
 
-**Returns:** *BN*
+**Returns:** BN

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/u8a/toBuffer"](_packages_util_src_u8a_tobuffer_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/u8a/toBuffer"
 
 # Module: "packages/util/src/u8a/toBuffer"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  u8aToBuffer
+### u8aToBuffer
 
-▸ **u8aToBuffer**(`value?`: Uint8Array | null): *Buffer*
+▸ **u8aToBuffer**(`value?`: Uint8Array \| null): Buffer
 
-*Defined in [packages/util/src/u8a/toBuffer.ts:18](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/u8a/toBuffer.ts#L18)*
+*Defined in [packages/util/src/u8a/toBuffer.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/u8a/toBuffer.ts#L18)*
 
 **`name`** u8aToBuffer
 
@@ -32,10 +34,10 @@ import { u8aToBuffer } from '@polkadot/util';
 console.log('Buffer', u8aToBuffer('0x123480001f'));
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | Uint8Array &#124; null |
+`value?` | Uint8Array \| null |
 
-**Returns:** *Buffer*
+**Returns:** Buffer

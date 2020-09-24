@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base64/validate"](_packages_util_crypto_src_base64_validate_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base64/validate"
 
 # Module: "packages/util-crypto/src/base64/validate"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  base64Validate
+### base64Validate
 
-▸ **base64Validate**(`value?`: string | null): *true*
+▸ **base64Validate**(`value?`: string \| null): true
 
-*Defined in [packages/util-crypto/src/base64/validate.ts:12](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base64/validate.ts#L12)*
+*Defined in [packages/util-crypto/src/base64/validate.ts:12](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base64/validate.ts#L12)*
 
 **`name`** base64Validate
 
@@ -23,10 +25,10 @@
 **`description`** 
 Validates the the supplied value is valid base64
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
+`value?` | string \| null |
 
-**Returns:** *true*
+**Returns:** true

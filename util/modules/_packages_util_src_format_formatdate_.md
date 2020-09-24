@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/format/formatDate"](_packages_util_src_format_formatdate_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/format/formatDate"
 
 # Module: "packages/util/src/format/formatDate"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  formatDate
+### formatDate
 
-▸ **formatDate**(`date`: Date): *string*
+▸ **formatDate**(`date`: Date): string
 
-*Defined in [packages/util/src/format/formatDate.ts:9](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/format/formatDate.ts#L9)*
+*Defined in [packages/util/src/format/formatDate.ts:9](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/format/formatDate.ts#L9)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `date` | Date |
 
-**Returns:** *string*
+**Returns:** string

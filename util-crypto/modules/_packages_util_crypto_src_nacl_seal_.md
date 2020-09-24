@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/nacl/seal"](_packages_util_crypto_src_nacl_seal_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/nacl/seal"
 
 # Module: "packages/util-crypto/src/nacl/seal"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  naclSeal
+### naclSeal
 
-▸ **naclSeal**(`message`: Uint8Array, `senderBoxSecret`: Uint8Array, `receiverBoxPublic`: Uint8Array, `nonce`: Uint8Array): *Sealed*
+▸ **naclSeal**(`message`: Uint8Array, `senderBoxSecret`: Uint8Array, `receiverBoxPublic`: Uint8Array, `nonce`: Uint8Array): Sealed
 
-*Defined in [packages/util-crypto/src/nacl/seal.ts:27](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/nacl/seal.ts#L27)*
+*Defined in [packages/util-crypto/src/nacl/seal.ts:27](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/nacl/seal.ts#L27)*
 
 **`name`** naclSeal
 
@@ -32,13 +34,13 @@ import { naclEncrypt } from '@polkadot/util-crypto';
 naclSeal([...], [...], [...], [...]); // => [...]
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
 `message` | Uint8Array | - |
 `senderBoxSecret` | Uint8Array | - |
 `receiverBoxPublic` | Uint8Array | - |
 `nonce` | Uint8Array | randomAsU8a(24) |
 
-**Returns:** *Sealed*
+**Returns:** Sealed

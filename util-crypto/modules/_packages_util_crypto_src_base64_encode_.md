@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base64/encode"](_packages_util_crypto_src_base64_encode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base64/encode"
 
 # Module: "packages/util-crypto/src/base64/encode"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  base58Encode
+### base58Encode
 
-▸ **base58Encode**(`value`: Uint8Array | string | Buffer | number[]): *string*
+▸ **base58Encode**(`value`: Uint8Array \| string \| Buffer \| number[]): string
 
-*Defined in [packages/util-crypto/src/base64/encode.ts:12](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base64/encode.ts#L12)*
+*Defined in [packages/util-crypto/src/base64/encode.ts:12](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base64/encode.ts#L12)*
 
 **`name`** base64Encode
 
@@ -23,10 +25,10 @@
 **`description`** 
 From the provided input, create the base64 and return the result as a string.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value` | Uint8Array &#124; string &#124; Buffer &#124; number[] |
+`value` | Uint8Array \| string \| Buffer \| number[] |
 
-**Returns:** *string*
+**Returns:** string

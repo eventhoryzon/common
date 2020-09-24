@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/types"](../modules/_packages_util_src_types_.md) › [ToBnOptions](_packages_util_src_types_.tobnoptions.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/util/src/types"](../modules/_packages_util_src_types_.md) / ToBnOptions
 
 # Interface: ToBnOptions
 
@@ -10,21 +12,21 @@
 
 ### Properties
 
-* [isLe](_packages_util_src_types_.tobnoptions.md#optional-isle)
-* [isNegative](_packages_util_src_types_.tobnoptions.md#optional-isnegative)
+* [isLe](_packages_util_src_types_.tobnoptions.md#isle)
+* [isNegative](_packages_util_src_types_.tobnoptions.md#isnegative)
 
 ## Properties
 
-### `Optional` isLe
+### isLe
 
-• **isLe**? : *undefined | false | true*
+• `Optional` **isLe**: undefined \| false \| true
 
-*Defined in [packages/util/src/types.ts:34](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L34)*
+*Defined in [packages/util/src/types.ts:34](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L34)*
 
 ___
 
-### `Optional` isNegative
+### isNegative
 
-• **isNegative**? : *undefined | false | true*
+• `Optional` **isNegative**: undefined \| false \| true
 
-*Defined in [packages/util/src/types.ts:35](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L35)*
+*Defined in [packages/util/src/types.ts:35](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L35)*

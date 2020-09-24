@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/testChain"](_packages_util_src_is_testchain_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/testChain"
 
 # Module: "packages/util/src/is/testChain"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  isTestChain
+### isTestChain
 
-▸ **isTestChain**(`chain?`: string | null): *boolean*
+▸ **isTestChain**(`chain?`: string \| null): boolean
 
-*Defined in [packages/util/src/is/testChain.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/testChain.ts#L6)*
+*Defined in [packages/util/src/is/testChain.ts:6](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/testChain.ts#L6)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`chain?` | string &#124; null |
+`chain?` | string \| null |
 
-**Returns:** *boolean*
+**Returns:** boolean

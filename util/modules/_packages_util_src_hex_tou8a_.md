@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/hex/toU8a"](_packages_util_src_hex_tou8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/hex/toU8a"
 
 # Module: "packages/util/src/hex/toU8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  hexToU8a
+### hexToU8a
 
-▸ **hexToU8a**(`_value?`: string | null, `bitLength`: number): *Uint8Array*
+▸ **hexToU8a**(`_value?`: string \| null, `bitLength`: number): Uint8Array
 
-*Defined in [packages/util/src/hex/toU8a.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/hex/toU8a.ts#L23)*
+*Defined in [packages/util/src/hex/toU8a.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/hex/toU8a.ts#L23)*
 
 **`name`** hexToU8a
 
@@ -33,11 +35,11 @@ hexToU8a('0x80001f'); // Uint8Array([0x80, 0x00, 0x1f])
 hexToU8a('0x80001f', 32); // Uint8Array([0x00, 0x80, 0x00, 0x1f])
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`_value?` | string &#124; null | - |
+`_value?` | string \| null | - |
 `bitLength` | number | -1 |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

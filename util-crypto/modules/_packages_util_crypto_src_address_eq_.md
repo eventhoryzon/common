@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/eq"](_packages_util_crypto_src_address_eq_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/eq"
 
 # Module: "packages/util-crypto/src/address/eq"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  addressEq
+### addressEq
 
-▸ **addressEq**(`a`: string | Uint8Array, `b`: string | Uint8Array): *boolean*
+▸ **addressEq**(`a`: string \| Uint8Array, `b`: string \| Uint8Array): boolean
 
-*Defined in [packages/util-crypto/src/address/eq.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/eq.ts#L22)*
+*Defined in [packages/util-crypto/src/address/eq.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/eq.ts#L22)*
 
 **`name`** addressEq
 
@@ -32,11 +34,11 @@ import { u8aEq } from '@polkadot/util';
 u8aEq(new Uint8Array([0x68, 0x65]), new Uint8Array([0x68, 0x65])); // true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`a` | string &#124; Uint8Array |
-`b` | string &#124; Uint8Array |
+`a` | string \| Uint8Array |
+`b` | string \| Uint8Array |
 
-**Returns:** *boolean*
+**Returns:** boolean

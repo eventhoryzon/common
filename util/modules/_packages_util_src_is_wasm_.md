@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/wasm"](_packages_util_src_is_wasm_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/wasm"
 
 # Module: "packages/util/src/is/wasm"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isWasm
+### isWasm
 
-▸ **isWasm**(`value?`: Uint8Array): *boolean*
+▸ **isWasm**(`value?`: Uint8Array): boolean
 
-*Defined in [packages/util/src/is/wasm.ts:14](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/wasm.ts#L14)*
+*Defined in [packages/util/src/is/wasm.ts:14](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/wasm.ts#L14)*
 
 **`name`** isWasm
 
@@ -23,10 +25,10 @@
 **`description`** 
 Checks to see if the input Uint8Array contains a valid WASM header
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value?` | Uint8Array |
 
-**Returns:** *boolean*
+**Returns:** boolean

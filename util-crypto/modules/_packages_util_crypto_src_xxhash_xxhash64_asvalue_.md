@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/xxhash/xxhash64/asValue"](_packages_util_crypto_src_xxhash_xxhash64_asvalue_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/xxhash/xxhash64/asValue"
 
 # Module: "packages/util-crypto/src/xxhash/xxhash64/asValue"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  xxhash64AsValue
+### xxhash64AsValue
 
-▸ **xxhash64AsValue**(`data`: Buffer | Uint8Array | string, `seed`: number): *number*
+▸ **xxhash64AsValue**(`data`: Buffer \| Uint8Array \| string, `seed`: number): number
 
-*Defined in [packages/util-crypto/src/xxhash/xxhash64/asValue.ts:21](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/xxhash/xxhash64/asValue.ts#L21)*
+*Defined in [packages/util-crypto/src/xxhash/xxhash64/asValue.ts:21](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/xxhash/xxhash64/asValue.ts#L21)*
 
 **`name`** xxhash64AsValue
 
@@ -32,11 +34,11 @@ import { xxhash64AsValue } from '@polkadot/util-crypto';
 xxhash64AsValue('abcd', 0xabcd)); // => e29f70f8b8c96df7
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`data` | Buffer &#124; Uint8Array &#124; string |
+`data` | Buffer \| Uint8Array \| string |
 `seed` | number |
 
-**Returns:** *number*
+**Returns:** number

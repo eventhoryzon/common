@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/error"](_packages_util_src_is_error_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/error"
 
 # Module: "packages/util/src/is/error"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isError
+### isError
 
-▸ **isError**(`value`: unknown): *value is Error*
+▸ **isError**(`value`: unknown): value is Error
 
-*Defined in [packages/util/src/is/error.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/error.ts#L20)*
+*Defined in [packages/util/src/is/error.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/error.ts#L20)*
 
 **`name`** isError
 
@@ -32,10 +34,10 @@ import { isError } from '@polkadot/util';
 console.log('isError', isError(new Error('message'))); // => true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *value is Error*
+**Returns:** value is Error

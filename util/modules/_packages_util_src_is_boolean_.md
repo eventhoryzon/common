@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/boolean"](_packages_util_src_is_boolean_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/boolean"
 
 # Module: "packages/util/src/is/boolean"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isBoolean
+### isBoolean
 
-▸ **isBoolean**(`value`: unknown): *value is boolean*
+▸ **isBoolean**(`value`: unknown): value is boolean
 
-*Defined in [packages/util/src/is/boolean.ts:18](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/boolean.ts#L18)*
+*Defined in [packages/util/src/is/boolean.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/boolean.ts#L18)*
 
 **`name`** isBoolean
 
@@ -32,10 +34,10 @@ import { isBoolean } from '@polkadot/util';
 isBoolean(false); // => true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *value is boolean*
+**Returns:** value is boolean

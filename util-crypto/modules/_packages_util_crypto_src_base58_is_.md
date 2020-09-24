@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base58/is"](_packages_util_crypto_src_base58_is_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base58/is"
 
 # Module: "packages/util-crypto/src/base58/is"
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  isBase58
+### isBase58
 
-▸ **isBase58**(`value?`: string | null, `ipfsCompat?`: undefined | false | true): *boolean*
+▸ **isBase58**(`value?`: string \| null, `ipfsCompat?`: undefined \| false \| true): boolean
 
-*Defined in [packages/util-crypto/src/base58/is.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base58/is.ts#L6)*
+*Defined in [packages/util-crypto/src/base58/is.ts:6](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base58/is.ts#L6)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
-`ipfsCompat?` | undefined &#124; false &#124; true |
+`value?` | string \| null |
+`ipfsCompat?` | undefined \| false \| true |
 
-**Returns:** *boolean*
+**Returns:** boolean

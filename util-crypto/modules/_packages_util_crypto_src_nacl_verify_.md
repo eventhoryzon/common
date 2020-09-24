@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/nacl/verify"](_packages_util_crypto_src_nacl_verify_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/nacl/verify"
 
 # Module: "packages/util-crypto/src/nacl/verify"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  naclVerify
+### naclVerify
 
-▸ **naclVerify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `publicKey`: Uint8Array | string): *boolean*
+▸ **naclVerify**(`message`: Uint8Array \| string, `signature`: Uint8Array \| string, `publicKey`: Uint8Array \| string): boolean
 
-*Defined in [packages/util-crypto/src/nacl/verify.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/nacl/verify.ts#L22)*
+*Defined in [packages/util-crypto/src/nacl/verify.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/nacl/verify.ts#L22)*
 
 **`name`** naclSign
 
@@ -32,12 +34,12 @@ import { naclVerify } from '@polkadot/util-crypto';
 naclVerify([...], [...], [...]); // => true/false
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`message` | Uint8Array &#124; string |
-`signature` | Uint8Array &#124; string |
-`publicKey` | Uint8Array &#124; string |
+`message` | Uint8Array \| string |
+`signature` | Uint8Array \| string |
+`publicKey` | Uint8Array \| string |
 
-**Returns:** *boolean*
+**Returns:** boolean

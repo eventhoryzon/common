@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/childClass"](_packages_util_src_is_childclass_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/childClass"
 
 # Module: "packages/util/src/is/childClass"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isChildClass
+### isChildClass
 
-▸ **isChildClass**‹**P**›(`Parent`: P, `Child?`: [Constructor](../interfaces/_packages_util_src_types_.constructor.md) | null | unknown): *Child is P*
+▸ **isChildClass**\<P>(`Parent`: P, `Child?`: [Constructor](../interfaces/_packages_util_src_types_.constructor.md) \| null \| unknown): Child is P
 
-*Defined in [packages/util/src/is/childClass.ts:21](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/childClass.ts#L21)*
+*Defined in [packages/util/src/is/childClass.ts:21](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/childClass.ts#L21)*
 
 **`name`** isChildClass
 
@@ -33,15 +35,17 @@ console.log('isChildClass', isChildClass(BN, BN); // => true
 console.log('isChildClass', isChildClass(BN, Uint8Array); // => false
 ```
 
-**Type parameters:**
+#### Type parameters:
 
-▪ **P**: *[Constructor](../interfaces/_packages_util_src_types_.constructor.md)*
+Name | Type |
+------ | ------ |
+`P` | [Constructor](../interfaces/_packages_util_src_types_.constructor.md) |
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `Parent` | P |
-`Child?` | [Constructor](../interfaces/_packages_util_src_types_.constructor.md) &#124; null &#124; unknown |
+`Child?` | [Constructor](../interfaces/_packages_util_src_types_.constructor.md) \| null \| unknown |
 
-**Returns:** *Child is P*
+**Returns:** Child is P

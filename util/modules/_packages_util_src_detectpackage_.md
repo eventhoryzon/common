@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/detectPackage"](_packages_util_src_detectpackage_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/detectPackage"
 
 # Module: "packages/util/src/detectPackage"
 
@@ -10,25 +12,21 @@
 
 ## Functions
 
-###  detectPackage
+### detectPackage
 
-▸ **detectPackage**(`__namedParameters`: object, `path?`: string | false): *void*
+▸ **detectPackage**(`__namedParameters`: { name: string ; version: string  }, `path?`: string \| false): void
 
-*Defined in [packages/util/src/detectPackage.ts:49](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/detectPackage.ts#L49)*
+*Defined in [packages/util/src/detectPackage.ts:49](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/detectPackage.ts#L49)*
 
 **`name`** detectPackage
 
 **`summary`** Checks that a specific package is only imported once
 
-**Parameters:**
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`name` | string |
-`version` | string |
+`__namedParameters` | { name: string ; version: string  } |
+`path?` | string \| false |
 
-▪`Optional`  **path**: *string | false*
-
-**Returns:** *void*
+**Returns:** void

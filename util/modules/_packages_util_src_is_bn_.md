@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/bn"](_packages_util_src_is_bn_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/bn"
 
 # Module: "packages/util/src/is/bn"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isBn
+### isBn
 
-▸ **isBn**(`value`: unknown): *value is BN*
+▸ **isBn**(`value`: unknown): value is BN
 
-*Defined in [packages/util/src/is/bn.ts:21](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/bn.ts#L21)*
+*Defined in [packages/util/src/is/bn.ts:21](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/bn.ts#L21)*
 
 **`name`** isBn
 
@@ -33,10 +35,10 @@ import { isBn } from '@polkadot/util';
 console.log('isBn', isBn(new BN(1))); // => true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *value is BN*
+**Returns:** value is BN

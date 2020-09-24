@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/key/extractPath"](_packages_util_crypto_src_key_extractpath_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/key/extractPath"
 
 # Module: "packages/util-crypto/src/key/extractPath"
 
@@ -14,18 +16,18 @@
 
 ## Functions
 
-###  keyExtractPath
+### keyExtractPath
 
-▸ **keyExtractPath**(`derivePath`: string): *[ExtractResult](../interfaces/_packages_util_crypto_src_key_extractpath_.extractresult.md)*
+▸ **keyExtractPath**(`derivePath`: string): [ExtractResult](../interfaces/_packages_util_crypto_src_key_extractpath_.extractresult.md)
 
-*Defined in [packages/util-crypto/src/key/extractPath.ts:17](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/key/extractPath.ts#L17)*
+*Defined in [packages/util-crypto/src/key/extractPath.ts:17](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/key/extractPath.ts#L17)*
 
 **`description`** Extract derivation junctions from the supplied path
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `derivePath` | string |
 
-**Returns:** *[ExtractResult](../interfaces/_packages_util_crypto_src_key_extractpath_.extractresult.md)*
+**Returns:** [ExtractResult](../interfaces/_packages_util_crypto_src_key_extractpath_.extractresult.md)

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/ip"](_packages_util_src_is_ip_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/ip"
 
 # Module: "packages/util/src/is/ip"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isIp
+### isIp
 
-▸ **isIp**(`value`: string, `type?`: IpTypes): *boolean*
+▸ **isIp**(`value`: string, `type?`: IpTypes): boolean
 
-*Defined in [packages/util/src/is/ip.ts:25](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/ip.ts#L25)*
+*Defined in [packages/util/src/is/ip.ts:25](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/ip.ts#L25)*
 
 **`name`** isIp
 
@@ -35,11 +37,11 @@ isIp('192.168.0.1', 'v6')); // => false
 isIp('1:2:3:4:5:6:7:8', 'v4'); // => false
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | string |
 `type?` | IpTypes |
 
-**Returns:** *boolean*
+**Returns:** boolean

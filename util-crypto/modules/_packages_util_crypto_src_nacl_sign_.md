@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/nacl/sign"](_packages_util_crypto_src_nacl_sign_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/nacl/sign"
 
 # Module: "packages/util-crypto/src/nacl/sign"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  naclSign
+### naclSign
 
-▸ **naclSign**(`message`: Uint8Array | string, `__namedParameters`: object): *Uint8Array*
+▸ **naclSign**(`message`: Uint8Array \| string, `__namedParameters`: { publicKey: undefined \| Uint8Array ; secretKey: undefined \| Uint8Array  }): Uint8Array
 
-*Defined in [packages/util-crypto/src/nacl/sign.ts:24](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/nacl/sign.ts#L24)*
+*Defined in [packages/util-crypto/src/nacl/sign.ts:24](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/nacl/sign.ts#L24)*
 
 **`name`** naclSign
 
@@ -32,15 +34,11 @@ import { naclSign } from '@polkadot/util-crypto';
 naclSign([...], [...]); // => [...]
 ```
 
-**Parameters:**
-
-▪ **message**: *Uint8Array | string*
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`publicKey` | undefined &#124; Uint8Array‹› |
-`secretKey` | undefined &#124; Uint8Array‹› |
+`message` | Uint8Array \| string |
+`__namedParameters` | { publicKey: undefined \| Uint8Array ; secretKey: undefined \| Uint8Array  } |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

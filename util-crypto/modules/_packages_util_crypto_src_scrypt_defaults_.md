@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/scrypt/defaults"](_packages_util_crypto_src_scrypt_defaults_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/scrypt/defaults"
 
 # Module: "packages/util-crypto/src/scrypt/defaults"
 
@@ -6,30 +8,20 @@
 
 ### Object literals
 
-* [DEFAULT_PARAMS](_packages_util_crypto_src_scrypt_defaults_.md#const-default_params)
+* [DEFAULT\_PARAMS](_packages_util_crypto_src_scrypt_defaults_.md#default_params)
 
 ## Object literals
 
-### `Const` DEFAULT_PARAMS
+### DEFAULT\_PARAMS
 
-### ▪ **DEFAULT_PARAMS**: *object*
+▪ `Const` **DEFAULT\_PARAMS**: object
 
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:4](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/defaults.ts#L4)*
+*Defined in [packages/util-crypto/src/scrypt/defaults.ts:4](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/scrypt/defaults.ts#L4)*
 
-###  N
+#### Properties:
 
-• **N**: *number* = 1 << 15
-
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:5](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/defaults.ts#L5)*
-
-###  p
-
-• **p**: *number* = 1
-
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/defaults.ts#L6)*
-
-###  r
-
-• **r**: *number* = 8
-
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:7](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/defaults.ts#L7)*
+Name | Type | Value |
+------ | ------ | ------ |
+`N` | number | 1 \<\< 15 |
+`p` | number | 1 |
+`r` | number | 8 |

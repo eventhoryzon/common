@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/hex/toNumber"](_packages_util_src_hex_tonumber_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/hex/toNumber"
 
 # Module: "packages/util/src/hex/toNumber"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  hexToNumber
+### hexToNumber
 
-▸ **hexToNumber**(`value?`: string | null): *number*
+▸ **hexToNumber**(`value?`: string \| null): number
 
-*Defined in [packages/util/src/hex/toNumber.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/hex/toNumber.ts#L20)*
+*Defined in [packages/util/src/hex/toNumber.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/hex/toNumber.ts#L20)*
 
 **`name`** hexToNumber
 
@@ -32,10 +34,10 @@ import { hexToNumber } from '@polkadot/util';
 hexToNumber('0x1234'); // => 0x1234
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
+`value?` | string \| null |
 
-**Returns:** *number*
+**Returns:** number

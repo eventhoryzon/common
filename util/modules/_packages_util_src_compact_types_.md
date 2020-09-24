@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/compact/types"](_packages_util_src_compact_types_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/compact/types"
 
 # Module: "packages/util/src/compact/types"
 
@@ -10,8 +12,8 @@
 
 ## Type aliases
 
-###  BitLength
+### BitLength
 
-Ƭ **BitLength**: *8 | 16 | 32 | 64 | 128 | 256*
+Ƭ  **BitLength**: 8 \| 16 \| 32 \| 64 \| 128 \| 256
 
-*Defined in [packages/util/src/compact/types.ts:4](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/compact/types.ts#L4)*
+*Defined in [packages/util/src/compact/types.ts:4](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/compact/types.ts#L4)*

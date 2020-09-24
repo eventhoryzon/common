@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/undefined"](_packages_util_src_is_undefined_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/undefined"
 
 # Module: "packages/util/src/is/undefined"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isUndefined
+### isUndefined
 
-▸ **isUndefined**(`value?`: unknown): *value is undefined*
+▸ **isUndefined**(`value?`: unknown): value is undefined
 
-*Defined in [packages/util/src/is/undefined.ts:19](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/undefined.ts#L19)*
+*Defined in [packages/util/src/is/undefined.ts:19](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/undefined.ts#L19)*
 
 **`name`** isUndefined
 
@@ -32,10 +34,10 @@ import { isUndefined } from '@polkadot/util';
 console.log('isUndefined', isUndefined(void(0))); // => true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value?` | unknown |
 
-**Returns:** *value is undefined*
+**Returns:** value is undefined

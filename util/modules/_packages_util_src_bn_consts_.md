@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/bn/consts"](_packages_util_src_bn_consts_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/bn/consts"
 
 # Module: "packages/util/src/bn/consts"
 
@@ -6,19 +8,19 @@
 
 ### Variables
 
-* [BN_HUNDRED](_packages_util_src_bn_consts_.md#const-bn_hundred)
-* [BN_ONE](_packages_util_src_bn_consts_.md#const-bn_one)
-* [BN_TEN](_packages_util_src_bn_consts_.md#const-bn_ten)
-* [BN_THOUSAND](_packages_util_src_bn_consts_.md#const-bn_thousand)
-* [BN_ZERO](_packages_util_src_bn_consts_.md#const-bn_zero)
+* [BN\_HUNDRED](_packages_util_src_bn_consts_.md#bn_hundred)
+* [BN\_ONE](_packages_util_src_bn_consts_.md#bn_one)
+* [BN\_TEN](_packages_util_src_bn_consts_.md#bn_ten)
+* [BN\_THOUSAND](_packages_util_src_bn_consts_.md#bn_thousand)
+* [BN\_ZERO](_packages_util_src_bn_consts_.md#bn_zero)
 
 ## Variables
 
-### `Const` BN_HUNDRED
+### BN\_HUNDRED
 
-• **BN_HUNDRED**: *BN* = new BN(100)
+• `Const` **BN\_HUNDRED**: BN = new BN(100)
 
-*Defined in [packages/util/src/bn/consts.ts:28](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/bn/consts.ts#L28)*
+*Defined in [packages/util/src/bn/consts.ts:28](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/bn/consts.ts#L28)*
 
 **`name`** BN_HUNDRED
 
@@ -26,11 +28,11 @@
 
 ___
 
-### `Const` BN_ONE
+### BN\_ONE
 
-• **BN_ONE**: *BN* = new BN(1)
+• `Const` **BN\_ONE**: BN = new BN(1)
 
-*Defined in [packages/util/src/bn/consts.ts:16](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/bn/consts.ts#L16)*
+*Defined in [packages/util/src/bn/consts.ts:16](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/bn/consts.ts#L16)*
 
 **`name`** BN_ONE
 
@@ -38,11 +40,11 @@ ___
 
 ___
 
-### `Const` BN_TEN
+### BN\_TEN
 
-• **BN_TEN**: *BN* = new BN(10)
+• `Const` **BN\_TEN**: BN = new BN(10)
 
-*Defined in [packages/util/src/bn/consts.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/bn/consts.ts#L22)*
+*Defined in [packages/util/src/bn/consts.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/bn/consts.ts#L22)*
 
 **`name`** BN_TEN
 
@@ -50,11 +52,11 @@ ___
 
 ___
 
-### `Const` BN_THOUSAND
+### BN\_THOUSAND
 
-• **BN_THOUSAND**: *BN* = new BN(1000)
+• `Const` **BN\_THOUSAND**: BN = new BN(1000)
 
-*Defined in [packages/util/src/bn/consts.ts:34](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/bn/consts.ts#L34)*
+*Defined in [packages/util/src/bn/consts.ts:34](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/bn/consts.ts#L34)*
 
 **`name`** BN_THOUSAND
 
@@ -62,11 +64,11 @@ ___
 
 ___
 
-### `Const` BN_ZERO
+### BN\_ZERO
 
-• **BN_ZERO**: *BN* = new BN(0)
+• `Const` **BN\_ZERO**: BN = new BN(0)
 
-*Defined in [packages/util/src/bn/consts.ts:10](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/bn/consts.ts#L10)*
+*Defined in [packages/util/src/bn/consts.ts:10](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/bn/consts.ts#L10)*
 
 **`name`** BN_ZERO
 

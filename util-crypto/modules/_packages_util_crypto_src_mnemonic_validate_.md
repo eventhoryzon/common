@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/mnemonic/validate"](_packages_util_crypto_src_mnemonic_validate_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/mnemonic/validate"
 
 # Module: "packages/util-crypto/src/mnemonic/validate"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  mnemonicValidate
+### mnemonicValidate
 
-▸ **mnemonicValidate**(`mnemonic`: string): *boolean*
+▸ **mnemonicValidate**(`mnemonic`: string): boolean
 
-*Defined in [packages/util-crypto/src/mnemonic/validate.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/mnemonic/validate.ts#L22)*
+*Defined in [packages/util-crypto/src/mnemonic/validate.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/mnemonic/validate.ts#L22)*
 
 **`name`** mnemonicValidate
 
@@ -30,10 +32,10 @@ const mnemonic = mnemonicGenerate(); // => string
 const isValidMnemonic = mnemonicValidate(mnemonic); // => boolean
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `mnemonic` | string |
 
-**Returns:** *boolean*
+**Returns:** boolean

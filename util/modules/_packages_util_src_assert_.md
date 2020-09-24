@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/assert"](_packages_util_src_assert_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/assert"
 
 # Module: "packages/util/src/assert"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  assert
+### assert
 
-▸ **assert**(`condition`: unknown, `message`: string | MessageFn): *asserts condition*
+▸ **assert**(`condition`: unknown, `message`: string \| MessageFn): asserts condition
 
-*Defined in [packages/util/src/assert.ts:24](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/assert.ts#L24)*
+*Defined in [packages/util/src/assert.ts:24](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/assert.ts#L24)*
 
 **`name`** assert
 
@@ -34,11 +36,11 @@ assert(false, 'False should not be true'); // Error thrown
 assert(false, () => 'message'); // Error with 'message'
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `condition` | unknown |
-`message` | string &#124; MessageFn |
+`message` | string \| MessageFn |
 
-**Returns:** *asserts condition*
+**Returns:** asserts condition

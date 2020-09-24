@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/keyDerived"](_packages_util_crypto_src_address_keyderived_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/keyDerived"
 
 # Module: "packages/util-crypto/src/address/keyDerived"
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  createKeyDerived
+### createKeyDerived
 
-▸ **createKeyDerived**(`who`: Uint8Array | string, `index`: BigInt | BN | number): *Uint8Array*
+▸ **createKeyDerived**(`who`: Uint8Array \| string, `index`: BigInt \| BN \| number): Uint8Array
 
-*Defined in [packages/util-crypto/src/address/keyDerived.ts:12](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/keyDerived.ts#L12)*
+*Defined in [packages/util-crypto/src/address/keyDerived.ts:12](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/keyDerived.ts#L12)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`who` | Uint8Array &#124; string |
-`index` | BigInt &#124; BN &#124; number |
+`who` | Uint8Array \| string |
+`index` | BigInt \| BN \| number |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

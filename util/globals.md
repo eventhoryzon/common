@@ -1,4 +1,6 @@
-[Polkadot JS Common](README.md) › [Globals](globals.md)
+**Polkadot JS Common**
+
+> [README](README.md) / Globals
 
 # Polkadot JS Common
 

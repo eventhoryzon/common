@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/ethereum/encode"](_packages_util_crypto_src_ethereum_encode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/ethereum/encode"
 
 # Module: "packages/util-crypto/src/ethereum/encode"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  ethereumEncode
+### ethereumEncode
 
-▸ **ethereumEncode**(`addressOrPublic?`: string | Uint8Array): *string*
+▸ **ethereumEncode**(`addressOrPublic?`: string \| Uint8Array): string
 
-*Defined in [packages/util-crypto/src/ethereum/encode.ts:17](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/ethereum/encode.ts#L17)*
+*Defined in [packages/util-crypto/src/ethereum/encode.ts:17](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/ethereum/encode.ts#L17)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`addressOrPublic?` | string &#124; Uint8Array |
+`addressOrPublic?` | string \| Uint8Array |
 
-**Returns:** *string*
+**Returns:** string

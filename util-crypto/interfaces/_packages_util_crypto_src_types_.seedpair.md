@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/types"](../modules/_packages_util_crypto_src_types_.md) › [Seedpair](_packages_util_crypto_src_types_.seedpair.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/util-crypto/src/types"](../modules/_packages_util_crypto_src_types_.md) / Seedpair
 
 # Interface: Seedpair
 
@@ -15,16 +17,16 @@
 
 ## Properties
 
-###  publicKey
+### publicKey
 
-• **publicKey**: *Uint8Array*
+•  **publicKey**: Uint8Array
 
-*Defined in [packages/util-crypto/src/types.ts:10](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/types.ts#L10)*
+*Defined in [packages/util-crypto/src/types.ts:10](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/types.ts#L10)*
 
 ___
 
-###  seed
+### seed
 
-• **seed**: *Uint8Array*
+•  **seed**: Uint8Array
 
-*Defined in [packages/util-crypto/src/types.ts:11](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/types.ts#L11)*
+*Defined in [packages/util-crypto/src/types.ts:11](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/types.ts#L11)*

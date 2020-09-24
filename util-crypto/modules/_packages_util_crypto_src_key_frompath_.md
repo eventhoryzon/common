@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/key/fromPath"](_packages_util_crypto_src_key_frompath_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/key/fromPath"
 
 # Module: "packages/util-crypto/src/key/fromPath"
 
@@ -10,13 +12,13 @@
 
 ## Functions
 
-###  keyFromPath
+### keyFromPath
 
-▸ **keyFromPath**(`pair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `path`: [DeriveJunction](../classes/_packages_util_crypto_src_key_derivejunction_.derivejunction.md)[], `type`: [KeypairType](_packages_util_crypto_src_types_.md#keypairtype)): *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+▸ **keyFromPath**(`pair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `path`: [DeriveJunction](../classes/_packages_util_crypto_src_key_derivejunction_.derivejunction.md)[], `type`: [KeypairType](_packages_util_crypto_src_types_.md#keypairtype)): [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)
 
-*Defined in [packages/util-crypto/src/key/fromPath.ts:19](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/key/fromPath.ts#L19)*
+*Defined in [packages/util-crypto/src/key/fromPath.ts:19](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/key/fromPath.ts#L19)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
@@ -24,4 +26,4 @@ Name | Type |
 `path` | [DeriveJunction](../classes/_packages_util_crypto_src_key_derivejunction_.derivejunction.md)[] |
 `type` | [KeypairType](_packages_util_crypto_src_types_.md#keypairtype) |
 
-**Returns:** *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+**Returns:** [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)

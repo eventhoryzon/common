@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/keyring"](_packages_keyring_src_keyring_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/keyring/src/keyring"
 
 # Module: "packages/keyring/src/keyring"
 

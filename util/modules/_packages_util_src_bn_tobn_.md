@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/bn/toBn"](_packages_util_src_bn_tobn_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/bn/toBn"
 
 # Module: "packages/util/src/bn/toBn"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  bnToBn
+### bnToBn
 
-▸ **bnToBn**‹**ExtToBn**›(`value?`: ExtToBn | BN | BigInt | string | number | null): *BN*
+▸ **bnToBn**\<ExtToBn>(`value?`: ExtToBn \| BN \| BigInt \| string \| number \| null): BN
 
-*Defined in [packages/util/src/bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/bn/toBn.ts#L29)*
+*Defined in [packages/util/src/bn/toBn.ts:29](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/bn/toBn.ts#L29)*
 
 **`name`** bnToBn
 
@@ -34,14 +36,16 @@ bnToBn(0x1234); // => BN(0x1234)
 bnToBn(new BN(0x1234)); // => BN(0x1234)
 ```
 
-**Type parameters:**
-
-▪ **ExtToBn**: *[ToBn](../interfaces/_packages_util_src_types_.tobn.md)*
-
-**Parameters:**
+#### Type parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | ExtToBn &#124; BN &#124; BigInt &#124; string &#124; number &#124; null |
+`ExtToBn` | [ToBn](../interfaces/_packages_util_src_types_.tobn.md) |
 
-**Returns:** *BN*
+#### Parameters:
+
+Name | Type |
+------ | ------ |
+`value?` | ExtToBn \| BN \| BigInt \| string \| number \| null |
+
+**Returns:** BN

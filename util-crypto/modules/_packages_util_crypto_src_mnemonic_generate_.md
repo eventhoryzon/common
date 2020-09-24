@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/mnemonic/generate"](_packages_util_crypto_src_mnemonic_generate_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/mnemonic/generate"
 
 # Module: "packages/util-crypto/src/mnemonic/generate"
 
@@ -14,19 +16,19 @@
 
 ## Type aliases
 
-###  WordCount
+### WordCount
 
-Ƭ **WordCount**: *12 | 15 | 18 | 21 | 24*
+Ƭ  **WordCount**: 12 \| 15 \| 18 \| 21 \| 24
 
-*Defined in [packages/util-crypto/src/mnemonic/generate.ts:9](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/mnemonic/generate.ts#L9)*
+*Defined in [packages/util-crypto/src/mnemonic/generate.ts:9](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/mnemonic/generate.ts#L9)*
 
 ## Functions
 
-###  mnemonicGenerate
+### mnemonicGenerate
 
-▸ **mnemonicGenerate**(`numWords`: [WordCount](_packages_util_crypto_src_mnemonic_generate_.md#wordcount)): *string*
+▸ **mnemonicGenerate**(`numWords`: [WordCount](_packages_util_crypto_src_mnemonic_generate_.md#wordcount)): string
 
-*Defined in [packages/util-crypto/src/mnemonic/generate.ts:32](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/mnemonic/generate.ts#L32)*
+*Defined in [packages/util-crypto/src/mnemonic/generate.ts:32](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/mnemonic/generate.ts#L32)*
 
 **`name`** mnemonicGenerate
 
@@ -41,10 +43,10 @@ import { mnemonicGenerate } from '@polkadot/util-crypto';
 const mnemonic = mnemonicGenerate(); // => string
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
 `numWords` | [WordCount](_packages_util_crypto_src_mnemonic_generate_.md#wordcount) | 12 |
 
-**Returns:** *string*
+**Returns:** string

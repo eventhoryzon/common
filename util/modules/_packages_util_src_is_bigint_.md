@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/bigInt"](_packages_util_src_is_bigint_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/bigInt"
 
 # Module: "packages/util/src/is/bigInt"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isBigInt
+### isBigInt
 
-▸ **isBigInt**(`value`: unknown): *value is BigInt*
+▸ **isBigInt**(`value`: unknown): value is BigInt
 
-*Defined in [packages/util/src/is/bigInt.ts:18](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/bigInt.ts#L18)*
+*Defined in [packages/util/src/is/bigInt.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/bigInt.ts#L18)*
 
 **`name`** isBigInt
 
@@ -32,10 +34,10 @@ import { isBigInt } from '@polkadot/util';
 console.log('isBigInt', isBigInt(123_456n)); // => true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *value is BigInt*
+**Returns:** value is BigInt

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/format/formatDecimal"](_packages_util_src_format_formatdecimal_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/format/formatDecimal"
 
 # Module: "packages/util/src/format/formatDecimal"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  formatDecimal
+### formatDecimal
 
-▸ **formatDecimal**(`value`: string): *string*
+▸ **formatDecimal**(`value`: string): string
 
-*Defined in [packages/util/src/format/formatDecimal.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/format/formatDecimal.ts#L6)*
+*Defined in [packages/util/src/format/formatDecimal.ts:6](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/format/formatDecimal.ts#L6)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | string |
 
-**Returns:** *string*
+**Returns:** string

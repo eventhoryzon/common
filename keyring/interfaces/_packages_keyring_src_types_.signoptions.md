@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/types"](../modules/_packages_keyring_src_types_.md) › [SignOptions](_packages_keyring_src_types_.signoptions.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/keyring/src/types"](../modules/_packages_keyring_src_types_.md) / SignOptions
 
 # Interface: SignOptions
 
@@ -10,12 +12,12 @@
 
 ### Properties
 
-* [withType](_packages_keyring_src_types_.signoptions.md#optional-withtype)
+* [withType](_packages_keyring_src_types_.signoptions.md#withtype)
 
 ## Properties
 
-### `Optional` withType
+### withType
 
-• **withType**? : *undefined | false | true*
+• `Optional` **withType**: undefined \| false \| true
 
-*Defined in [packages/keyring/src/types.ts:32](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L32)*
+*Defined in [packages/keyring/src/types.ts:32](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L32)*

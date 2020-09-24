@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/pair/toJson"](_packages_keyring_src_pair_tojson_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/keyring/src/pair/toJson"
 
 # Module: "packages/keyring/src/pair/toJson"
 
@@ -10,25 +12,19 @@
 
 ## Functions
 
-###  toJson
+### toJson
 
-▸ **toJson**(`type`: KeypairType, `__namedParameters`: object, `encoded`: Uint8Array, `isEncrypted`: boolean): *[KeyringPair$Json](../interfaces/_packages_keyring_src_types_.keyringpair_json.md)*
+▸ **toJson**(`type`: KeypairType, `__namedParameters`: { address: string ; meta: Record\<string, unknown>  }, `encoded`: Uint8Array, `isEncrypted`: boolean): [KeyringPair$Json](../interfaces/_packages_keyring_src_types_.keyringpair_json.md)
 
-*Defined in [packages/keyring/src/pair/toJson.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/pair/toJson.ts#L22)*
+*Defined in [packages/keyring/src/pair/toJson.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/pair/toJson.ts#L22)*
 
-**Parameters:**
-
-▪ **type**: *KeypairType*
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`address` | string |
-`meta` | Record‹string, unknown› |
+`type` | KeypairType |
+`__namedParameters` | { address: string ; meta: Record\<string, unknown>  } |
+`encoded` | Uint8Array |
+`isEncrypted` | boolean |
 
-▪ **encoded**: *Uint8Array*
-
-▪ **isEncrypted**: *boolean*
-
-**Returns:** *[KeyringPair$Json](../interfaces/_packages_keyring_src_types_.keyringpair_json.md)*
+**Returns:** [KeyringPair$Json](../interfaces/_packages_keyring_src_types_.keyringpair_json.md)

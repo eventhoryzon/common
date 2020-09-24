@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/u8a/toString"](_packages_util_src_u8a_tostring_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/u8a/toString"
 
 # Module: "packages/util/src/u8a/toString"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  u8aToString
+### u8aToString
 
-▸ **u8aToString**(`value?`: Uint8Array | null): *string*
+▸ **u8aToString**(`value?`: Uint8Array \| null): string
 
-*Defined in [packages/util/src/u8a/toString.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/u8a/toString.ts#L22)*
+*Defined in [packages/util/src/u8a/toString.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/u8a/toString.ts#L22)*
 
 **`name`** u8aToString
 
@@ -32,10 +34,10 @@ import { u8aToString } from '@polkadot/util';
 u8aToString(new Uint8Array([0x68, 0x65, 0x6c, 0x6c, 0x6f])); // hello
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | Uint8Array &#124; null |
+`value?` | Uint8Array \| null |
 
-**Returns:** *string*
+**Returns:** string

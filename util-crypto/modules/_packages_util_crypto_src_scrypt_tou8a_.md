@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/scrypt/toU8a"](_packages_util_crypto_src_scrypt_tou8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/scrypt/toU8a"
 
 # Module: "packages/util-crypto/src/scrypt/toU8a"
 
@@ -10,22 +12,17 @@
 
 ## Functions
 
-###  scryptToU8a
+### scryptToU8a
 
-▸ **scryptToU8a**(`salt`: Uint8Array, `__namedParameters`: object): *Uint8Array*
+▸ **scryptToU8a**(`salt`: Uint8Array, `__namedParameters`: { N: number ; p: number ; r: number  }): Uint8Array
 
-*Defined in [packages/util-crypto/src/scrypt/toU8a.ts:8](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/toU8a.ts#L8)*
+*Defined in [packages/util-crypto/src/scrypt/toU8a.ts:8](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/scrypt/toU8a.ts#L8)*
 
-**Parameters:**
-
-▪ **salt**: *Uint8Array*
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`N` | number |
-`p` | number |
-`r` | number |
+`salt` | Uint8Array |
+`__namedParameters` | { N: number ; p: number ; r: number  } |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/extractTime"](_packages_util_src_extracttime_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/extractTime"
 
 # Module: "packages/util/src/extractTime"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  extractTime
+### extractTime
 
-▸ **extractTime**(`milliseconds?`: undefined | number): *[Time](../interfaces/_packages_util_src_types_.time.md)*
+▸ **extractTime**(`milliseconds?`: undefined \| number): [Time](../interfaces/_packages_util_src_types_.time.md)
 
-*Defined in [packages/util/src/extractTime.ts:38](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/extractTime.ts#L38)*
+*Defined in [packages/util/src/extractTime.ts:38](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/extractTime.ts#L38)*
 
 **`name`** extractTime
 
@@ -29,10 +31,10 @@ import { extractTime } from '@polkadot/util';
 const { days, minutes, hours, seconds, milliseconds } = extractTime(6000); // 0, 0, 10, 0, 0
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`milliseconds?` | undefined &#124; number |
+`milliseconds?` | undefined \| number |
 
-**Returns:** *[Time](../interfaces/_packages_util_src_types_.time.md)*
+**Returns:** [Time](../interfaces/_packages_util_src_types_.time.md)

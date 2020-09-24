@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/nacl/box/fromSecret"](_packages_util_crypto_src_nacl_box_fromsecret_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/nacl/box/fromSecret"
 
 # Module: "packages/util-crypto/src/nacl/box/fromSecret"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  naclBoxKeypairFromSecret
+### naclBoxKeypairFromSecret
 
-▸ **naclBoxKeypairFromSecret**(`secret`: Uint8Array): *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+▸ **naclBoxKeypairFromSecret**(`secret`: Uint8Array): [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)
 
-*Defined in [packages/util-crypto/src/nacl/box/fromSecret.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/nacl/box/fromSecret.ts#L22)*
+*Defined in [packages/util-crypto/src/nacl/box/fromSecret.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/nacl/box/fromSecret.ts#L22)*
 
 **`name`** naclBoxKeypairFromSecret
 
@@ -32,10 +34,10 @@ import { naclBoxKeypairFromSecret } from '@polkadot/util-crypto';
 naclBoxKeypairFromSecret(...); // => { secretKey: [...], publicKey: [...] }
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `secret` | Uint8Array |
 
-**Returns:** *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+**Returns:** [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)

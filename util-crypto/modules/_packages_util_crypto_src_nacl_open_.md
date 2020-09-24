@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/nacl/open"](_packages_util_crypto_src_nacl_open_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/nacl/open"
 
 # Module: "packages/util-crypto/src/nacl/open"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  naclOpen
+### naclOpen
 
-▸ **naclOpen**(`sealed`: Uint8Array, `nonce`: Uint8Array, `senderBoxPublic`: Uint8Array, `receiverBoxSecret`: Uint8Array): *Uint8Array | null*
+▸ **naclOpen**(`sealed`: Uint8Array, `nonce`: Uint8Array, `senderBoxPublic`: Uint8Array, `receiverBoxSecret`: Uint8Array): Uint8Array \| null
 
-*Defined in [packages/util-crypto/src/nacl/open.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/nacl/open.ts#L20)*
+*Defined in [packages/util-crypto/src/nacl/open.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/nacl/open.ts#L20)*
 
 **`name`** naclOpen
 
@@ -32,7 +34,7 @@ import { naclOpen } from '@polkadot/util-crypto';
 naclOpen([...], [...], [...]); // => [...]
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
@@ -41,4 +43,4 @@ Name | Type |
 `senderBoxPublic` | Uint8Array |
 `receiverBoxSecret` | Uint8Array |
 
-**Returns:** *Uint8Array | null*
+**Returns:** Uint8Array \| null

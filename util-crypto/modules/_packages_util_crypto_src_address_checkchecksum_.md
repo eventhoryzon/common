@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/checkChecksum"](_packages_util_crypto_src_address_checkchecksum_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/checkChecksum"
 
 # Module: "packages/util-crypto/src/address/checkChecksum"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  checkChecksum
+### checkChecksum
 
-▸ **checkChecksum**(`decoded`: Uint8Array): *[boolean, number]*
+▸ **checkChecksum**(`decoded`: Uint8Array): [boolean, number]
 
-*Defined in [packages/util-crypto/src/address/checkChecksum.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/checkChecksum.ts#L6)*
+*Defined in [packages/util-crypto/src/address/checkChecksum.ts:6](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/checkChecksum.ts#L6)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `decoded` | Uint8Array |
 
-**Returns:** *[boolean, number]*
+**Returns:** [boolean, number]

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/encode"](_packages_util_crypto_src_address_encode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/encode"
 
 # Module: "packages/util-crypto/src/address/encode"
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  encode
+### encode
 
-▸ **encode**(`_key`: Uint8Array | string, `ss58Format`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
+▸ **encode**(`_key`: Uint8Array \| string, `ss58Format`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): string
 
-*Defined in [packages/util-crypto/src/address/encode.ts:15](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/encode.ts#L15)*
+*Defined in [packages/util-crypto/src/address/encode.ts:15](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/encode.ts#L15)*
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`_key` | Uint8Array &#124; string | - |
+`_key` | Uint8Array \| string | - |
 `ss58Format` | [Prefix](_packages_util_crypto_src_address_types_.md#prefix) | defaults.prefix |
 
-**Returns:** *string*
+**Returns:** string

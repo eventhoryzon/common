@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/secp256k1/keypair/fromSeed"](_packages_util_crypto_src_secp256k1_keypair_fromseed_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/secp256k1/keypair/fromSeed"
 
 # Module: "packages/util-crypto/src/secp256k1/keypair/fromSeed"
 
@@ -10,20 +12,20 @@
 
 ## Functions
 
-###  secp256k1KeypairFromSeed
+### secp256k1KeypairFromSeed
 
-▸ **secp256k1KeypairFromSeed**(`seed`: Uint8Array): *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+▸ **secp256k1KeypairFromSeed**(`seed`: Uint8Array): [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)
 
-*Defined in [packages/util-crypto/src/secp256k1/keypair/fromSeed.ts:16](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/secp256k1/keypair/fromSeed.ts#L16)*
+*Defined in [packages/util-crypto/src/secp256k1/keypair/fromSeed.ts:16](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/secp256k1/keypair/fromSeed.ts#L16)*
 
 **`name`** secp256k1KeypairFromSeed
 
 **`description`** Returns a object containing a `publicKey` & `secretKey` generated from the supplied seed.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `seed` | Uint8Array |
 
-**Returns:** *[Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)*
+**Returns:** [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)

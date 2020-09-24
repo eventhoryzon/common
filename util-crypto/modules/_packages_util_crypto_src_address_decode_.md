@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/decode"](_packages_util_crypto_src_address_decode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/decode"
 
 # Module: "packages/util-crypto/src/address/decode"
 
@@ -10,18 +12,18 @@
 
 ## Functions
 
-###  decode
+### decode
 
-▸ **decode**(`encoded`: string | Uint8Array, `ignoreChecksum?`: undefined | false | true, `ss58Format`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *Uint8Array*
+▸ **decode**(`encoded`: string \| Uint8Array, `ignoreChecksum?`: undefined \| false \| true, `ss58Format`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): Uint8Array
 
-*Defined in [packages/util-crypto/src/address/decode.ts:15](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/decode.ts#L15)*
+*Defined in [packages/util-crypto/src/address/decode.ts:15](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/decode.ts#L15)*
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`encoded` | string &#124; Uint8Array | - |
-`ignoreChecksum?` | undefined &#124; false &#124; true | - |
+`encoded` | string \| Uint8Array | - |
+`ignoreChecksum?` | undefined \| false \| true | - |
 `ss58Format` | [Prefix](_packages_util_crypto_src_address_types_.md#prefix) | 99 |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

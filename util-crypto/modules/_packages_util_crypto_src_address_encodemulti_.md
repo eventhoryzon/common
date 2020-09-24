@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/encodeMulti"](_packages_util_crypto_src_address_encodemulti_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/encodeMulti"
 
 # Module: "packages/util-crypto/src/address/encodeMulti"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  encodeMultiAddress
+### encodeMultiAddress
 
-▸ **encodeMultiAddress**(`who`: (Uint8Array | string)[], `threshold`: BigInt | BN | number, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
+▸ **encodeMultiAddress**(`who`: (Uint8Array \| string)[], `threshold`: BigInt \| BN \| number, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): string
 
-*Defined in [packages/util-crypto/src/address/encodeMulti.ts:17](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/encodeMulti.ts#L17)*
+*Defined in [packages/util-crypto/src/address/encodeMulti.ts:17](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/encodeMulti.ts#L17)*
 
 **`name`** encodeMultiAddress
 
@@ -23,12 +25,12 @@
 **`description`** 
 Creates a Substrate multisig address based on the input address and the required threshold.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`who` | (Uint8Array &#124; string)[] |
-`threshold` | BigInt &#124; BN &#124; number |
+`who` | (Uint8Array \| string)[] |
+`threshold` | BigInt \| BN \| number |
 `ss58Format?` | [Prefix](_packages_util_crypto_src_address_types_.md#prefix) |
 
-**Returns:** *string*
+**Returns:** string

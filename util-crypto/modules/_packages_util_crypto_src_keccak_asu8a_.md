@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/keccak/asU8a"](_packages_util_crypto_src_keccak_asu8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/keccak/asU8a"
 
 # Module: "packages/util-crypto/src/keccak/asU8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  keccakAsU8a
+### keccakAsU8a
 
-▸ **keccakAsU8a**(`value`: Buffer | Uint8Array | string): *Uint8Array*
+▸ **keccakAsU8a**(`value`: Buffer \| Uint8Array \| string): Uint8Array
 
-*Defined in [packages/util-crypto/src/keccak/asU8a.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/keccak/asU8a.ts#L22)*
+*Defined in [packages/util-crypto/src/keccak/asU8a.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/keccak/asU8a.ts#L22)*
 
 **`name`** keccakAsU8a
 
@@ -32,10 +34,10 @@ import { keccakAsU8a } from '@polkadot/util-crypto';
 keccakAsU8a('123'); // => Uint8Array
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value` | Buffer &#124; Uint8Array &#124; string |
+`value` | Buffer \| Uint8Array \| string |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

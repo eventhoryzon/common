@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/sha512/asU8a"](_packages_util_crypto_src_sha512_asu8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/sha512/asU8a"
 
 # Module: "packages/util-crypto/src/sha512/asU8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  sha512AsU8a
+### sha512AsU8a
 
-▸ **sha512AsU8a**(`data`: Uint8Array): *Uint8Array*
+▸ **sha512AsU8a**(`data`: Uint8Array): Uint8Array
 
-*Defined in [packages/util-crypto/src/sha512/asU8a.ts:21](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/sha512/asU8a.ts#L21)*
+*Defined in [packages/util-crypto/src/sha512/asU8a.ts:21](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/sha512/asU8a.ts#L21)*
 
 **`name`** sha512AsU8a
 
@@ -32,10 +34,10 @@ import { sha512AsU8a } from '@polkadot/util-crypto';
 sha512AsU8a(Uint8Array.from([...])); // => Uint8Array([...])
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `data` | Uint8Array |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

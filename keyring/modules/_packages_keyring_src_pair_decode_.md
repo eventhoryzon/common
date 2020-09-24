@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/pair/decode"](_packages_keyring_src_pair_decode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/keyring/src/pair/decode"
 
 # Module: "packages/keyring/src/pair/decode"
 
@@ -10,18 +12,18 @@
 
 ## Functions
 
-###  decode
+### decode
 
-▸ **decode**(`passphrase?`: undefined | string, `encrypted?`: Uint8Array | null, `encType`: [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpairjsonencodingtypes)[]): *DecodeResult*
+▸ **decode**(`passphrase?`: undefined \| string, `encrypted?`: Uint8Array \| null, `encType`: [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpair$jsonencodingtypes)[]): DecodeResult
 
-*Defined in [packages/keyring/src/pair/decode.ts:45](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/pair/decode.ts#L45)*
+*Defined in [packages/keyring/src/pair/decode.ts:45](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/pair/decode.ts#L45)*
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`passphrase?` | undefined &#124; string | - |
-`encrypted?` | Uint8Array &#124; null | - |
-`encType` | [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpairjsonencodingtypes)[] | ENCODING |
+`passphrase?` | undefined \| string | - |
+`encrypted?` | Uint8Array \| null | - |
+`encType` | [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpair$jsonencodingtypes)[] | ENCODING |
 
-**Returns:** *DecodeResult*
+**Returns:** DecodeResult

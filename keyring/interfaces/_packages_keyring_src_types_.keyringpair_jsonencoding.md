@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/types"](../modules/_packages_keyring_src_types_.md) › [KeyringPair$JsonEncoding](_packages_keyring_src_types_.keyringpair_jsonencoding.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/keyring/src/types"](../modules/_packages_keyring_src_types_.md) / KeyringPair$JsonEncoding
 
 # Interface: KeyringPair$JsonEncoding
 
@@ -16,24 +18,24 @@
 
 ## Properties
 
-###  content
+### content
 
-• **content**: *["pkcs8", KeypairType]*
+•  **content**: [\"pkcs8\", KeypairType]
 
-*Defined in [packages/keyring/src/types.ts:19](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L19)*
-
-___
-
-###  type
-
-• **type**: *[KeyringPair$JsonEncodingTypes](../modules/_packages_keyring_src_types_.md#keyringpairjsonencodingtypes) | [KeyringPair$JsonEncodingTypes](../modules/_packages_keyring_src_types_.md#keyringpairjsonencodingtypes)[]*
-
-*Defined in [packages/keyring/src/types.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L20)*
+*Defined in [packages/keyring/src/types.ts:19](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L19)*
 
 ___
 
-###  version
+### type
 
-• **version**: *[KeyringPair$JsonVersion](../modules/_packages_keyring_src_types_.md#keyringpairjsonversion)*
+•  **type**: [KeyringPair$JsonEncodingTypes](../modules/_packages_keyring_src_types_.md#keyringpair$jsonencodingtypes) \| [KeyringPair$JsonEncodingTypes](../modules/_packages_keyring_src_types_.md#keyringpair$jsonencodingtypes)[]
 
-*Defined in [packages/keyring/src/types.ts:21](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L21)*
+*Defined in [packages/keyring/src/types.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L20)*
+
+___
+
+### version
+
+•  **version**: [KeyringPair$JsonVersion](../modules/_packages_keyring_src_types_.md#keyringpair$jsonversion)
+
+*Defined in [packages/keyring/src/types.ts:21](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L21)*

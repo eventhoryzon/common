@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/format/formatNumber"](_packages_util_src_format_formatnumber_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/format/formatNumber"
 
 # Module: "packages/util/src/format/formatNumber"
 
@@ -10,20 +12,22 @@
 
 ## Functions
 
-###  formatNumber
+### formatNumber
 
-▸ **formatNumber**‹**ExtToBn**›(`value?`: ExtToBn | BN | BigInt | number | null): *string*
+▸ **formatNumber**\<ExtToBn>(`value?`: ExtToBn \| BN \| BigInt \| number \| null): string
 
-*Defined in [packages/util/src/format/formatNumber.ts:11](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/format/formatNumber.ts#L11)*
+*Defined in [packages/util/src/format/formatNumber.ts:11](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/format/formatNumber.ts#L11)*
 
-**Type parameters:**
-
-▪ **ExtToBn**: *[ToBn](../interfaces/_packages_util_src_types_.tobn.md)*
-
-**Parameters:**
+#### Type parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | ExtToBn &#124; BN &#124; BigInt &#124; number &#124; null |
+`ExtToBn` | [ToBn](../interfaces/_packages_util_src_types_.tobn.md) |
 
-**Returns:** *string*
+#### Parameters:
+
+Name | Type |
+------ | ------ |
+`value?` | ExtToBn \| BN \| BigInt \| number \| null |
+
+**Returns:** string

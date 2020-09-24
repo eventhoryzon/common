@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/format/formatElapsed"](_packages_util_src_format_formatelapsed_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/format/formatElapsed"
 
 # Module: "packages/util/src/format/formatElapsed"
 
@@ -10,21 +12,23 @@
 
 ## Functions
 
-###  formatElapsed
+### formatElapsed
 
-▸ **formatElapsed**‹**ExtToBn**›(`now?`: Date | null, `value?`: BN | ExtToBn | Date | number | null): *string*
+▸ **formatElapsed**\<ExtToBn>(`now?`: Date \| null, `value?`: BN \| ExtToBn \| Date \| number \| null): string
 
-*Defined in [packages/util/src/format/formatElapsed.ts:24](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/format/formatElapsed.ts#L24)*
+*Defined in [packages/util/src/format/formatElapsed.ts:24](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/format/formatElapsed.ts#L24)*
 
-**Type parameters:**
-
-▪ **ExtToBn**: *[ToBn](../interfaces/_packages_util_src_types_.tobn.md)*
-
-**Parameters:**
+#### Type parameters:
 
 Name | Type |
 ------ | ------ |
-`now?` | Date &#124; null |
-`value?` | BN &#124; ExtToBn &#124; Date &#124; number &#124; null |
+`ExtToBn` | [ToBn](../interfaces/_packages_util_src_types_.tobn.md) |
 
-**Returns:** *string*
+#### Parameters:
+
+Name | Type |
+------ | ------ |
+`now?` | Date \| null |
+`value?` | BN \| ExtToBn \| Date \| number \| null |
+
+**Returns:** string

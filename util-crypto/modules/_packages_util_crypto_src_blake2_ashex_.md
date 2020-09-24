@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/blake2/asHex"](_packages_util_crypto_src_blake2_ashex_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/blake2/asHex"
 
 # Module: "packages/util-crypto/src/blake2/asHex"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  blake2AsHex
+### blake2AsHex
 
-▸ **blake2AsHex**(`data`: Uint8Array | string, `bitLength`: number): *string*
+▸ **blake2AsHex**(`data`: Uint8Array \| string, `bitLength`: number): string
 
-*Defined in [packages/util-crypto/src/blake2/asHex.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/blake2/asHex.ts#L22)*
+*Defined in [packages/util-crypto/src/blake2/asHex.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/blake2/asHex.ts#L22)*
 
 **`name`** blake2AsHex
 
@@ -32,11 +34,11 @@ import { blake2AsHex } from '@polkadot/util-crypto';
 blake2AsHex('abc'); // => 0xba80a53f981c4d0d
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`data` | Uint8Array &#124; string | - |
+`data` | Uint8Array \| string | - |
 `bitLength` | number | 256 |
 
-**Returns:** *string*
+**Returns:** string

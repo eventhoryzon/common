@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/random/asNumber"](_packages_util_crypto_src_random_asnumber_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/random/asNumber"
 
 # Module: "packages/util-crypto/src/random/asNumber"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  randomAsNumber
+### randomAsNumber
 
-▸ **randomAsNumber**(): *number*
+▸ **randomAsNumber**(): number
 
-*Defined in [packages/util-crypto/src/random/asNumber.ts:25](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/random/asNumber.ts#L25)*
+*Defined in [packages/util-crypto/src/random/asNumber.ts:25](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/random/asNumber.ts#L25)*
 
 **`name`** randomAsNumber
 
@@ -32,4 +34,4 @@ import { randomAsNumber } from '@polkadot/util-crypto';
 randomAsNumber(); // => <random number>
 ```
 
-**Returns:** *number*
+**Returns:** number

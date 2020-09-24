@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/toBn"](_packages_util_src_is_tobn_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/toBn"
 
 # Module: "packages/util/src/is/toBn"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  isToBn
+### isToBn
 
-▸ **isToBn**(`value?`: unknown): *value is ToBn*
+▸ **isToBn**(`value?`: unknown): value is ToBn
 
-*Defined in [packages/util/src/is/toBn.ts:8](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/toBn.ts#L8)*
+*Defined in [packages/util/src/is/toBn.ts:8](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/toBn.ts#L8)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value?` | unknown |
 
-**Returns:** *value is ToBn*
+**Returns:** value is ToBn

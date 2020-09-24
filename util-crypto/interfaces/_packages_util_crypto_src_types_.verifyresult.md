@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/types"](../modules/_packages_util_crypto_src_types_.md) › [VerifyResult](_packages_util_crypto_src_types_.verifyresult.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/util-crypto/src/types"](../modules/_packages_util_crypto_src_types_.md) / VerifyResult
 
 # Interface: VerifyResult
 
@@ -15,16 +17,16 @@
 
 ## Properties
 
-###  crypto
+### crypto
 
-• **crypto**: *"none" | [KeypairType](../modules/_packages_util_crypto_src_types_.md#keypairtype)*
+•  **crypto**: \"none\" \| [KeypairType](../modules/_packages_util_crypto_src_types_.md#keypairtype)
 
-*Defined in [packages/util-crypto/src/types.ts:17](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/types.ts#L17)*
+*Defined in [packages/util-crypto/src/types.ts:17](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/types.ts#L17)*
 
 ___
 
-###  isValid
+### isValid
 
-• **isValid**: *boolean*
+•  **isValid**: boolean
 
-*Defined in [packages/util-crypto/src/types.ts:18](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/types.ts#L18)*
+*Defined in [packages/util-crypto/src/types.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/types.ts#L18)*

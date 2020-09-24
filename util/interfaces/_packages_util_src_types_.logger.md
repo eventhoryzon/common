@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/types"](../modules/_packages_util_src_types_.md) › [Logger](_packages_util_src_types_.logger.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/util/src/types"](../modules/_packages_util_src_types_.md) / Logger
 
 # Interface: Logger
 
@@ -18,90 +20,40 @@
 
 ## Properties
 
-###  debug
+### debug
 
-• **debug**: *function*
+•  **debug**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:26](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L26)*
-
-#### Type declaration:
-
-▸ (...`values`: [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata)): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`...values` | [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata) |
+*Defined in [packages/util/src/types.ts:26](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L26)*
 
 ___
 
-###  error
+### error
 
-• **error**: *function*
+•  **error**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:27](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L27)*
-
-#### Type declaration:
-
-▸ (...`values`: [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata)): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`...values` | [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata) |
+*Defined in [packages/util/src/types.ts:27](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L27)*
 
 ___
 
-###  log
+### log
 
-• **log**: *function*
+•  **log**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:28](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L28)*
-
-#### Type declaration:
-
-▸ (...`values`: [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata)): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`...values` | [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata) |
+*Defined in [packages/util/src/types.ts:28](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L28)*
 
 ___
 
-###  noop
+### noop
 
-• **noop**: *function*
+•  **noop**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:29](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L29)*
-
-#### Type declaration:
-
-▸ (...`values`: [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata)): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`...values` | [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata) |
+*Defined in [packages/util/src/types.ts:29](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L29)*
 
 ___
 
-###  warn
+### warn
 
-• **warn**: *function*
+•  **warn**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:30](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L30)*
-
-#### Type declaration:
-
-▸ (...`values`: [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata)): *void*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`...values` | [Logger$Data](../modules/_packages_util_src_types_.md#loggerdata) |
+*Defined in [packages/util/src/types.ts:30](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L30)*

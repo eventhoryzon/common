@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/signature/verify"](_packages_util_crypto_src_signature_verify_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/signature/verify"
 
 # Module: "packages/util-crypto/src/signature/verify"
 
@@ -10,18 +12,18 @@
 
 ## Functions
 
-###  signatureVerify
+### signatureVerify
 
-▸ **signatureVerify**(`message`: Uint8Array | string, `signature`: Uint8Array | string, `addressOrPublicKey`: Uint8Array | string): *[VerifyResult](../interfaces/_packages_util_crypto_src_types_.verifyresult.md)*
+▸ **signatureVerify**(`message`: Uint8Array \| string, `signature`: Uint8Array \| string, `addressOrPublicKey`: Uint8Array \| string): [VerifyResult](../interfaces/_packages_util_crypto_src_types_.verifyresult.md)
 
-*Defined in [packages/util-crypto/src/signature/verify.ts:73](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/signature/verify.ts#L73)*
+*Defined in [packages/util-crypto/src/signature/verify.ts:73](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/signature/verify.ts#L73)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`message` | Uint8Array &#124; string |
-`signature` | Uint8Array &#124; string |
-`addressOrPublicKey` | Uint8Array &#124; string |
+`message` | Uint8Array \| string |
+`signature` | Uint8Array \| string |
+`addressOrPublicKey` | Uint8Array \| string |
 
-**Returns:** *[VerifyResult](../interfaces/_packages_util_crypto_src_types_.verifyresult.md)*
+**Returns:** [VerifyResult](../interfaces/_packages_util_crypto_src_types_.verifyresult.md)

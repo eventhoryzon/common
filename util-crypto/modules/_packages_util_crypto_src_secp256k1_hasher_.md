@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/secp256k1/hasher"](_packages_util_crypto_src_secp256k1_hasher_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/secp256k1/hasher"
 
 # Module: "packages/util-crypto/src/secp256k1/hasher"
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  secp256k1Hasher
+### secp256k1Hasher
 
-▸ **secp256k1Hasher**(`hashType`: [HashType](_packages_util_crypto_src_secp256k1_types_.md#hashtype), `data`: Uint8Array | string): *Uint8Array*
+▸ **secp256k1Hasher**(`hashType`: [HashType](_packages_util_crypto_src_secp256k1_types_.md#hashtype), `data`: Uint8Array \| string): Uint8Array
 
-*Defined in [packages/util-crypto/src/secp256k1/hasher.ts:11](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/secp256k1/hasher.ts#L11)*
+*Defined in [packages/util-crypto/src/secp256k1/hasher.ts:11](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/secp256k1/hasher.ts#L11)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `hashType` | [HashType](_packages_util_crypto_src_secp256k1_types_.md#hashtype) |
-`data` | Uint8Array &#124; string |
+`data` | Uint8Array \| string |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

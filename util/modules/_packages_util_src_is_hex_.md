@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/hex"](_packages_util_src_is_hex_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/hex"
 
 # Module: "packages/util/src/is/hex"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isHex
+### isHex
 
-▸ **isHex**(`value`: unknown, `bitLength`: number, `ignoreLength`: boolean): *value is string | String*
+▸ **isHex**(`value`: unknown, `bitLength`: number, `ignoreLength`: boolean): value is string \| String
 
-*Defined in [packages/util/src/is/hex.ts:24](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/hex.ts#L24)*
+*Defined in [packages/util/src/is/hex.ts:24](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/hex.ts#L24)*
 
 **`name`** isHex
 
@@ -33,12 +35,12 @@ isHex('0x1234'); // => true
 isHex('0x1234', 8); // => false
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
 `value` | unknown | - |
 `bitLength` | number | -1 |
 `ignoreLength` | boolean | false |
 
-**Returns:** *value is string | String*
+**Returns:** value is string \| String

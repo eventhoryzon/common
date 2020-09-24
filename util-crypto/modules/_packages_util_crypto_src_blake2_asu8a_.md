@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/blake2/asU8a"](_packages_util_crypto_src_blake2_asu8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/blake2/asU8a"
 
 # Module: "packages/util-crypto/src/blake2/asU8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  blake2AsU8a
+### blake2AsU8a
 
-▸ **blake2AsU8a**(`data`: Uint8Array | string, `bitLength`: number, `key`: Uint8Array | null, `onlyJs`: boolean): *Uint8Array*
+▸ **blake2AsU8a**(`data`: Uint8Array \| string, `bitLength`: number, `key`: Uint8Array \| null, `onlyJs`: boolean): Uint8Array
 
-*Defined in [packages/util-crypto/src/blake2/asU8a.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/blake2/asU8a.ts#L22)*
+*Defined in [packages/util-crypto/src/blake2/asU8a.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/blake2/asU8a.ts#L22)*
 
 **`name`** blake2AsU8a
 
@@ -32,13 +34,13 @@ import { blake2AsU8a } from '@polkadot/util-crypto';
 blake2AsU8a('abc'); // => [0xba, 0x80, 0xa53, 0xf98, 0x1c, 0x4d, 0x0d]
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`data` | Uint8Array &#124; string | - |
+`data` | Uint8Array \| string | - |
 `bitLength` | number | 256 |
-`key` | Uint8Array &#124; null | null |
+`key` | Uint8Array \| null | null |
 `onlyJs` | boolean | false |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

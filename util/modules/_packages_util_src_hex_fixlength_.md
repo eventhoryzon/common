@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/hex/fixLength"](_packages_util_src_hex_fixlength_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/hex/fixLength"
 
 # Module: "packages/util/src/hex/fixLength"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  hexFixLength
+### hexFixLength
 
-▸ **hexFixLength**(`value`: string, `bitLength`: number, `withPadding`: boolean): *string*
+▸ **hexFixLength**(`value`: string, `bitLength`: number, `withPadding`: boolean): string
 
-*Defined in [packages/util/src/hex/fixLength.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/hex/fixLength.ts#L23)*
+*Defined in [packages/util/src/hex/fixLength.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/hex/fixLength.ts#L23)*
 
 **`name`** hexFixLength
 
@@ -34,12 +36,12 @@ console.log('fixed', hexFixLength('0x12', 16, true)); // => 0x0012
 console.log('fixed', hexFixLength('0x0012', 8)); // => 0x12
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
 `value` | string | - |
 `bitLength` | number | -1 |
 `withPadding` | boolean | false |
 
-**Returns:** *string*
+**Returns:** string

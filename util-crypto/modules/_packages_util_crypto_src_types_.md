@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/types"](_packages_util_crypto_src_types_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/types"
 
 # Module: "packages/util-crypto/src/types"
 
@@ -16,8 +18,8 @@
 
 ## Type aliases
 
-###  KeypairType
+### KeypairType
 
-Ƭ **KeypairType**: *"ed25519" | "sr25519" | "ecdsa" | "ethereum"*
+Ƭ  **KeypairType**: \"ed25519\" \| \"sr25519\" \| \"ecdsa\" \| \"ethereum\"
 
-*Defined in [packages/util-crypto/src/types.ts:14](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/types.ts#L14)*
+*Defined in [packages/util-crypto/src/types.ts:14](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/types.ts#L14)*

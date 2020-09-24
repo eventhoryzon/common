@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/secp256k1/types"](_packages_util_crypto_src_secp256k1_types_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/secp256k1/types"
 
 # Module: "packages/util-crypto/src/secp256k1/types"
 
@@ -10,8 +12,8 @@
 
 ## Type aliases
 
-###  HashType
+### HashType
 
-Ƭ **HashType**: *"blake2" | "keccak"*
+Ƭ  **HashType**: \"blake2\" \| \"keccak\"
 
-*Defined in [packages/util-crypto/src/secp256k1/types.ts:4](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/secp256k1/types.ts#L4)*
+*Defined in [packages/util-crypto/src/secp256k1/types.ts:4](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/secp256k1/types.ts#L4)*

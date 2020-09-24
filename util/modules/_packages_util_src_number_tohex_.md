@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/number/toHex"](_packages_util_src_number_tohex_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/number/toHex"
 
 # Module: "packages/util/src/number/toHex"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  numberToHex
+### numberToHex
 
-▸ **numberToHex**(`value?`: number | null, `bitLength`: number): *string*
+▸ **numberToHex**(`value?`: number \| null, `bitLength`: number): string
 
-*Defined in [packages/util/src/number/toHex.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/number/toHex.ts#L23)*
+*Defined in [packages/util/src/number/toHex.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/number/toHex.ts#L23)*
 
 **`name`** numberToHex
 
@@ -33,11 +35,11 @@ numberToHex(0x1234); // => '0x1234'
 numberToHex(0x1234, 32); // => 0x00001234
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`value?` | number &#124; null | - |
+`value?` | number \| null | - |
 `bitLength` | number | -1 |
 
-**Returns:** *string*
+**Returns:** string

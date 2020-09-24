@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/pair/types"](../modules/_packages_keyring_src_pair_types_.md) › [PairInfo](_packages_keyring_src_pair_types_.pairinfo.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/keyring/src/pair/types"](../modules/_packages_keyring_src_pair_types_.md) / PairInfo
 
 # Interface: PairInfo
 
@@ -11,29 +13,29 @@
 ### Properties
 
 * [publicKey](_packages_keyring_src_pair_types_.pairinfo.md#publickey)
-* [secretKey](_packages_keyring_src_pair_types_.pairinfo.md#optional-secretkey)
-* [seed](_packages_keyring_src_pair_types_.pairinfo.md#optional-seed)
+* [secretKey](_packages_keyring_src_pair_types_.pairinfo.md#secretkey)
+* [seed](_packages_keyring_src_pair_types_.pairinfo.md#seed)
 
 ## Properties
 
-###  publicKey
+### publicKey
 
-• **publicKey**: *Uint8Array*
+•  **publicKey**: Uint8Array
 
-*Defined in [packages/keyring/src/pair/types.ts:5](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/pair/types.ts#L5)*
-
-___
-
-### `Optional` secretKey
-
-• **secretKey**? : *Uint8Array*
-
-*Defined in [packages/keyring/src/pair/types.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/pair/types.ts#L6)*
+*Defined in [packages/keyring/src/pair/types.ts:5](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/pair/types.ts#L5)*
 
 ___
 
-### `Optional` seed
+### secretKey
 
-• **seed**? : *Uint8Array | null*
+• `Optional` **secretKey**: Uint8Array
 
-*Defined in [packages/keyring/src/pair/types.ts:7](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/pair/types.ts#L7)*
+*Defined in [packages/keyring/src/pair/types.ts:6](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/pair/types.ts#L6)*
+
+___
+
+### seed
+
+• `Optional` **seed**: Uint8Array \| null
+
+*Defined in [packages/keyring/src/pair/types.ts:7](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/pair/types.ts#L7)*

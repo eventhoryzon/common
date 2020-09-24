@@ -1,6 +1,6 @@
-[Polkadot JS Common](README.md) › [Globals](globals.md)
+**Polkadot JS Common**
 
-# Polkadot JS Common
+> README / [Globals](globals.md)
 
 # @polkadot/keyring
 

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/scrypt/encode"](_packages_util_crypto_src_scrypt_encode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/scrypt/encode"
 
 # Module: "packages/util-crypto/src/scrypt/encode"
 
@@ -10,24 +12,18 @@
 
 ## Functions
 
-###  scryptEncode
+### scryptEncode
 
-▸ **scryptEncode**(`passphrase?`: Uint8Array | string, `salt`: Uint8Array‹›, `params`: object): *Result*
+▸ **scryptEncode**(`passphrase?`: Uint8Array \| string, `salt`: Uint8Array, `params`: { N: number = 1 \<\< 15; p: number = 1; r: number = 8 }): Result
 
-*Defined in [packages/util-crypto/src/scrypt/encode.ts:19](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/encode.ts#L19)*
+*Defined in [packages/util-crypto/src/scrypt/encode.ts:19](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/scrypt/encode.ts#L19)*
 
-**Parameters:**
+#### Parameters:
 
-▪`Optional`  **passphrase**: *Uint8Array | string*
-
-▪`Default value`  **salt**: *Uint8Array‹›*= randomAsU8a()
-
-▪`Default value`  **params**: *object*= DEFAULT_PARAMS
-
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`N` | number | 1 << 15 |
-`p` | number | 1 |
-`r` | number | 8 |
+`passphrase?` | Uint8Array \| string | - |
+`salt` | Uint8Array | randomAsU8a() |
+`params` | { N: number = 1 \<\< 15; p: number = 1; r: number = 8 } | DEFAULT_PARAMS |
 
-**Returns:** *Result*
+**Returns:** Result

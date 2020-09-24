@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/pair/encode"](_packages_keyring_src_pair_encode_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/keyring/src/pair/encode"
 
 # Module: "packages/keyring/src/pair/encode"
 
@@ -10,21 +12,17 @@
 
 ## Functions
 
-###  encode
+### encode
 
-▸ **encode**(`__namedParameters`: object, `passphrase?`: undefined | string): *Uint8Array*
+▸ **encode**(`__namedParameters`: { publicKey: Uint8Array ; secretKey: undefined \| Uint8Array  }, `passphrase?`: undefined \| string): Uint8Array
 
-*Defined in [packages/keyring/src/pair/encode.ts:11](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/pair/encode.ts#L11)*
+*Defined in [packages/keyring/src/pair/encode.ts:11](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/pair/encode.ts#L11)*
 
-**Parameters:**
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`publicKey` | Uint8Array‹› |
-`secretKey` | undefined &#124; Uint8Array‹› |
+`__namedParameters` | { publicKey: Uint8Array ; secretKey: undefined \| Uint8Array  } |
+`passphrase?` | undefined \| string |
 
-▪`Optional`  **passphrase**: *undefined | string*
-
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

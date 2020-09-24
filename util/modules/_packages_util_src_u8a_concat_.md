@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/u8a/concat"](_packages_util_src_u8a_concat_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/u8a/concat"
 
 # Module: "packages/util/src/u8a/concat"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  u8aConcat
+### u8aConcat
 
-▸ **u8aConcat**(...`list`: (Uint8Array | string)[]): *Uint8Array*
+▸ **u8aConcat**(...`list`: (Uint8Array \| string)[]): Uint8Array
 
-*Defined in [packages/util/src/u8a/concat.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/u8a/concat.ts#L23)*
+*Defined in [packages/util/src/u8a/concat.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/u8a/concat.ts#L23)*
 
 **`name`** u8aConcat
 
@@ -35,10 +37,10 @@ u8aConcat(
 ); // [1, 2, 3, 4, 5, 6]
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`...list` | (Uint8Array &#124; string)[] |
+`...list` | (Uint8Array \| string)[] |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

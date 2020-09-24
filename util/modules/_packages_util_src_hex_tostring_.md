@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/hex/toString"](_packages_util_src_hex_tostring_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/hex/toString"
 
 # Module: "packages/util/src/hex/toString"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  hexToString
+### hexToString
 
-▸ **hexToString**(`_value?`: string | null): *string*
+▸ **hexToString**(`_value?`: string \| null): string
 
-*Defined in [packages/util/src/hex/toString.ts:21](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/hex/toString.ts#L21)*
+*Defined in [packages/util/src/hex/toString.ts:21](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/hex/toString.ts#L21)*
 
 **`name`** hexToU8a
 
@@ -32,10 +34,10 @@ import { hexToString } from '@polkadot/util';
 hexToU8a('0x68656c6c6f'); // hello
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`_value?` | string &#124; null |
+`_value?` | string \| null |
 
-**Returns:** *string*
+**Returns:** string

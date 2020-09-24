@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/string/upperFirst"](_packages_util_src_string_upperfirst_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/string/upperFirst"
 
 # Module: "packages/util/src/string/upperFirst"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  stringUpperFirst
+### stringUpperFirst
 
-▸ **stringUpperFirst**(`value?`: string | null): *string*
+▸ **stringUpperFirst**(`value?`: string \| null): string
 
-*Defined in [packages/util/src/string/upperFirst.ts:18](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/string/upperFirst.ts#L18)*
+*Defined in [packages/util/src/string/upperFirst.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/string/upperFirst.ts#L18)*
 
 **`name`** stringUpperFirst
 
@@ -32,10 +34,10 @@ import { stringUpperFirst } from '@polkadot/util';
 stringUpperFirst('abc'); // => 'Abc'
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
+`value?` | string \| null |
 
-**Returns:** *string*
+**Returns:** string

@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/array/filter"](_packages_util_src_array_filter_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/array/filter"
 
 # Module: "packages/util/src/array/filter"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  arrayFilter
+### arrayFilter
 
-▸ **arrayFilter**‹**T**›(`array`: T[], `allowNulls`: boolean): *T[]*
+▸ **arrayFilter**\<T>(`array`: T[], `allowNulls`: boolean): T[]
 
-*Defined in [packages/util/src/array/filter.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/array/filter.ts#L23)*
+*Defined in [packages/util/src/array/filter.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/array/filter.ts#L23)*
 
 **`name`** arrayFilter
 
@@ -33,15 +35,17 @@ arrayFilter([0, void 0, true, null, false, '']); // [0, true, null, false, '']
 arrayFilter([0, void 0, true, null, false, ''], false); // [0, true, false, '']
 ```
 
-**Type parameters:**
+#### Type parameters:
 
-▪ **T**
+Name | Default |
+------ | ------ |
+`T` | any |
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
 `array` | T[] | - |
 `allowNulls` | boolean | true |
 
-**Returns:** *T[]*
+**Returns:** T[]

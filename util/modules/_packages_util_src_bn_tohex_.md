@@ -1,5 +1,5 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/bn/toHex"](_packages_util_src_bn_tohex_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/bn/toHex"
 
 # Module: "packages/util/src/bn/toHex"
-
-

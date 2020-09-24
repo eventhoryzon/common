@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/sort"](_packages_util_crypto_src_address_sort_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/sort"
 
 # Module: "packages/util-crypto/src/address/sort"
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  sortAddresses
+### sortAddresses
 
-▸ **sortAddresses**(`addresses`: (Uint8Array | string)[], `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string[]*
+▸ **sortAddresses**(`addresses`: (Uint8Array \| string)[], `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): string[]
 
-*Defined in [packages/util-crypto/src/address/sort.ts:11](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/sort.ts#L11)*
+*Defined in [packages/util-crypto/src/address/sort.ts:11](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/sort.ts#L11)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`addresses` | (Uint8Array &#124; string)[] |
+`addresses` | (Uint8Array \| string)[] |
 `ss58Format?` | [Prefix](_packages_util_crypto_src_address_types_.md#prefix) |
 
-**Returns:** *string[]*
+**Returns:** string[]

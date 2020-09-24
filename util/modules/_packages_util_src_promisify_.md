@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/promisify"](_packages_util_src_promisify_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/promisify"
 
 # Module: "packages/util/src/promisify"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  promisify
+### promisify
 
-▸ **promisify**‹**R**›(`self`: unknown, `fn`: function, ...`params`: any[]): *Promise‹R›*
+▸ **promisify**\<R>(`self`: unknown, `fn`: (...params: any) => any, ...`params`: any[]): Promise\<R>
 
-*Defined in [packages/util/src/promisify.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/promisify.ts#L20)*
+*Defined in [packages/util/src/promisify.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/promisify.ts#L20)*
 
 **`name`** promisify
 
@@ -33,24 +35,18 @@ await promisify(null, ((a, cb) => cb(null, a), true); // resolves with `true`
 await promisify(null, (cb) => cb(new Error('error!'))); // rejects with `error!`
 ```
 
-**Type parameters:**
+#### Type parameters:
 
-▪ **R**
+Name | Default |
+------ | ------ |
+`R` | any |
 
-**Parameters:**
-
-▪ **self**: *unknown*
-
-▪ **fn**: *function*
-
-▸ (...`params`: any): *any*
-
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`...params` | any |
+`self` | unknown |
+`fn` | (...params: any) => any |
+`...params` | any[] |
 
-▪... **params**: *any[]*
-
-**Returns:** *Promise‹R›*
+**Returns:** Promise\<R>

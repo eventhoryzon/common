@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/hex/stripPrefix"](_packages_util_src_hex_stripprefix_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/hex/stripPrefix"
 
 # Module: "packages/util/src/hex/stripPrefix"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  hexStripPrefix
+### hexStripPrefix
 
-▸ **hexStripPrefix**(`value?`: string | null): *string*
+▸ **hexStripPrefix**(`value?`: string \| null): string
 
-*Defined in [packages/util/src/hex/stripPrefix.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/hex/stripPrefix.ts#L22)*
+*Defined in [packages/util/src/hex/stripPrefix.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/hex/stripPrefix.ts#L22)*
 
 **`name`** hexStripPrefix
 
@@ -32,10 +34,10 @@ import { hexStripPrefix } from '@polkadot/util';
 console.log('stripped', hexStripPrefix('0x1234')); // => 1234
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
+`value?` | string \| null |
 
-**Returns:** *string*
+**Returns:** string

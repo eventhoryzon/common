@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/string/lowerFirst"](_packages_util_src_string_lowerfirst_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/string/lowerFirst"
 
 # Module: "packages/util/src/string/lowerFirst"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  stringLowerFirst
+### stringLowerFirst
 
-▸ **stringLowerFirst**(`value?`: string | null): *string*
+▸ **stringLowerFirst**(`value?`: string \| null): string
 
-*Defined in [packages/util/src/string/lowerFirst.ts:18](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/string/lowerFirst.ts#L18)*
+*Defined in [packages/util/src/string/lowerFirst.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/string/lowerFirst.ts#L18)*
 
 **`name`** stringLowerFirst
 
@@ -32,10 +34,10 @@ import { stringLowerFirst } from '@polkadot/util';
 stringLowerFirst('ABC'); // => 'aBC'
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`value?` | string &#124; null |
+`value?` | string \| null |
 
-**Returns:** *string*
+**Returns:** string

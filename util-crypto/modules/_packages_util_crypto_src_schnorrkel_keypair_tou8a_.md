@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/schnorrkel/keypair/toU8a"](_packages_util_crypto_src_schnorrkel_keypair_tou8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/schnorrkel/keypair/toU8a"
 
 # Module: "packages/util-crypto/src/schnorrkel/keypair/toU8a"
 
@@ -10,19 +12,16 @@
 
 ## Functions
 
-###  schnorrkelKeypairToU8a
+### schnorrkelKeypairToU8a
 
-▸ **schnorrkelKeypairToU8a**(`__namedParameters`: object): *Uint8Array*
+▸ **schnorrkelKeypairToU8a**(`__namedParameters`: { publicKey: Uint8Array ; secretKey: Uint8Array  }): Uint8Array
 
-*Defined in [packages/util-crypto/src/schnorrkel/keypair/toU8a.ts:8](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/schnorrkel/keypair/toU8a.ts#L8)*
+*Defined in [packages/util-crypto/src/schnorrkel/keypair/toU8a.ts:8](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/schnorrkel/keypair/toU8a.ts#L8)*
 
-**Parameters:**
-
-▪ **__namedParameters**: *object*
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`publicKey` | Uint8Array‹› |
-`secretKey` | Uint8Array‹› |
+`__namedParameters` | { publicKey: Uint8Array ; secretKey: Uint8Array  } |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

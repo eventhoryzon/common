@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/bn/sqrt"](_packages_util_src_bn_sqrt_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/bn/sqrt"
 
 # Module: "packages/util/src/bn/sqrt"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  sqrt
+### sqrt
 
-▸ **sqrt**(`value`: BN): *BN*
+▸ **sqrt**(`value`: BN): BN
 
-*Defined in [packages/util/src/bn/sqrt.ts:32](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/bn/sqrt.ts#L32)*
+*Defined in [packages/util/src/bn/sqrt.ts:32](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/bn/sqrt.ts#L32)*
 
 **`name`** bnSqrt
 
@@ -30,10 +32,10 @@ import { bnSqrt } from '@polkadot/util';
 bnSqrt(new BN(16)).toString(); // => '4'
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | BN |
 
-**Returns:** *BN*
+**Returns:** BN

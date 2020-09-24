@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/number/toU8a"](_packages_util_src_number_tou8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/number/toU8a"
 
 # Module: "packages/util/src/number/toU8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  numberToU8a
+### numberToU8a
 
-▸ **numberToU8a**(`value?`: number | null, `bitLength`: number): *Uint8Array*
+▸ **numberToU8a**(`value?`: number \| null, `bitLength`: number): Uint8Array
 
-*Defined in [packages/util/src/number/toU8a.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/number/toU8a.ts#L23)*
+*Defined in [packages/util/src/number/toU8a.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/number/toU8a.ts#L23)*
 
 **`name`** numberToU8a
 
@@ -32,11 +34,11 @@ import { numberToU8a } from '@polkadot/util';
 numberToU8a(0x1234); // => [0x12, 0x34]
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`value?` | number &#124; null | - |
+`value?` | number \| null | - |
 `bitLength` | number | -1 |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

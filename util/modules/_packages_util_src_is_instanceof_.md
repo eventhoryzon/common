@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/instanceOf"](_packages_util_src_is_instanceof_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/instanceOf"
 
 # Module: "packages/util/src/is/instanceOf"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isInstanceOf
+### isInstanceOf
 
-▸ **isInstanceOf**(`value`: unknown, `clazz`: Function): *boolean*
+▸ **isInstanceOf**(`value`: unknown, `clazz`: Function): boolean
 
-*Defined in [packages/util/src/is/instanceOf.ts:19](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/instanceOf.ts#L19)*
+*Defined in [packages/util/src/is/instanceOf.ts:19](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/instanceOf.ts#L19)*
 
 **`name`** isInstanceOf
 
@@ -32,11 +34,11 @@ import { isInstanceOf } from '@polkadot/util';
 console.log('isInstanceOf', isInstanceOf(new Array(0), Array)); // => true
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 `clazz` | Function |
 
-**Returns:** *boolean*
+**Returns:** boolean

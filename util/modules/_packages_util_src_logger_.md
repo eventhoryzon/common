@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/logger"](_packages_util_src_logger_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/logger"
 
 # Module: "packages/util/src/logger"
 
@@ -11,27 +13,27 @@
 
 ## Functions
 
-###  format
+### format
 
-▸ **format**(`value`: unknown): *unknown*
+▸ **format**(`value`: unknown): unknown
 
-*Defined in [packages/util/src/logger.ts:43](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/logger.ts#L43)*
+*Defined in [packages/util/src/logger.ts:43](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/logger.ts#L43)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *unknown*
+**Returns:** unknown
 
 ___
 
-###  logger
+### logger
 
-▸ **logger**(`_type`: string): *[Logger](../interfaces/_packages_util_src_types_.logger.md)*
+▸ **logger**(`_type`: string): [Logger](../interfaces/_packages_util_src_types_.logger.md)
 
-*Defined in [packages/util/src/logger.ts:102](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/logger.ts#L102)*
+*Defined in [packages/util/src/logger.ts:102](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/logger.ts#L102)*
 
 **`name`** Logger
 
@@ -49,10 +51,10 @@ const l from '@polkadot/util/logger')('test');
 l.log('blah'); // <date>     TEST: blah
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `_type` | string |
 
-**Returns:** *[Logger](../interfaces/_packages_util_src_types_.logger.md)*
+**Returns:** [Logger](../interfaces/_packages_util_src_types_.logger.md)

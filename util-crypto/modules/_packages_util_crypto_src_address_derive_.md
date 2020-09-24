@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/address/derive"](_packages_util_crypto_src_address_derive_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/address/derive"
 
 # Module: "packages/util-crypto/src/address/derive"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  deriveAddress
+### deriveAddress
 
-▸ **deriveAddress**(`who`: Uint8Array | string, `suri`: string, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): *string*
+▸ **deriveAddress**(`who`: Uint8Array \| string, `suri`: string, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): string
 
-*Defined in [packages/util-crypto/src/address/derive.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/address/derive.ts#L20)*
+*Defined in [packages/util-crypto/src/address/derive.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/address/derive.ts#L20)*
 
 **`name`** deriveAddress
 
@@ -23,12 +25,12 @@
 **`description`** 
 Creates a sr25519 derived address based on the input address/publicKey and the uri supplied.
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`who` | Uint8Array &#124; string |
+`who` | Uint8Array \| string |
 `suri` | string |
 `ss58Format?` | [Prefix](_packages_util_crypto_src_address_types_.md#prefix) |
 
-**Returns:** *string*
+**Returns:** string

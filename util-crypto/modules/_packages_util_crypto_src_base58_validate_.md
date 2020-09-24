@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/base58/validate"](_packages_util_crypto_src_base58_validate_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/base58/validate"
 
 # Module: "packages/util-crypto/src/base58/validate"
 
@@ -11,11 +13,11 @@
 
 ## Functions
 
-###  base58Validate
+### base58Validate
 
-▸ **base58Validate**(`value?`: string | null, `ipfsCompat`: boolean): *true*
+▸ **base58Validate**(`value?`: string \| null, `ipfsCompat`: boolean): true
 
-*Defined in [packages/util-crypto/src/base58/validate.ts:25](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base58/validate.ts#L25)*
+*Defined in [packages/util-crypto/src/base58/validate.ts:25](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base58/validate.ts#L25)*
 
 **`name`** base58Validate
 
@@ -24,30 +26,30 @@
 **`description`** 
 Validates the the supplied value is valid base58
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`value?` | string &#124; null | - |
+`value?` | string \| null | - |
 `ipfsCompat` | boolean | false |
 
-**Returns:** *true*
+**Returns:** true
 
 ___
 
-###  validateChars
+### validateChars
 
-▸ **validateChars**(`type`: string, `alphabet`: string, `value?`: string | null, `startChar?`: undefined | string): *true*
+▸ **validateChars**(`type`: string, `alphabet`: string, `value?`: string \| null, `startChar?`: undefined \| string): true
 
-*Defined in [packages/util-crypto/src/base58/validate.ts:8](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base58/validate.ts#L8)*
+*Defined in [packages/util-crypto/src/base58/validate.ts:8](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/base58/validate.ts#L8)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `type` | string |
 `alphabet` | string |
-`value?` | string &#124; null |
-`startChar?` | undefined &#124; string |
+`value?` | string \| null |
+`startChar?` | undefined \| string |
 
-**Returns:** *true*
+**Returns:** true

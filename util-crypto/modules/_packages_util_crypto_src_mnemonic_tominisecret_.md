@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/mnemonic/toMiniSecret"](_packages_util_crypto_src_mnemonic_tominisecret_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/mnemonic/toMiniSecret"
 
 # Module: "packages/util-crypto/src/mnemonic/toMiniSecret"
 
@@ -10,17 +12,17 @@
 
 ## Functions
 
-###  toMiniSecret
+### toMiniSecret
 
-▸ **toMiniSecret**(`mnemonic`: string, `password`: string): *Uint8Array*
+▸ **toMiniSecret**(`mnemonic`: string, `password`: string): Uint8Array
 
-*Defined in [packages/util-crypto/src/mnemonic/toMiniSecret.ts:12](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/mnemonic/toMiniSecret.ts#L12)*
+*Defined in [packages/util-crypto/src/mnemonic/toMiniSecret.ts:12](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/mnemonic/toMiniSecret.ts#L12)*
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
 `mnemonic` | string | - |
 `password` | string | "" |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

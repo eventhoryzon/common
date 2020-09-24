@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/u8a"](_packages_util_src_is_u8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/u8a"
 
 # Module: "packages/util/src/is/u8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isU8a
+### isU8a
 
-▸ **isU8a**(`value?`: unknown): *value is Uint8Array*
+▸ **isU8a**(`value?`: unknown): value is Uint8Array
 
-*Defined in [packages/util/src/is/u8a.ts:20](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/u8a.ts#L20)*
+*Defined in [packages/util/src/is/u8a.ts:20](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/u8a.ts#L20)*
 
 **`name`** isU8a
 
@@ -32,10 +34,10 @@ import { isUint8Array } from '@polkadot/util';
 console.log('isU8a', isU8a([])); // => false
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value?` | unknown |
 
-**Returns:** *value is Uint8Array*
+**Returns:** value is Uint8Array

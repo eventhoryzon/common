@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/keyring/src/types"](../modules/_packages_keyring_src_types_.md) › [KeyringPair$Json](_packages_keyring_src_types_.keyringpair_json.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/keyring/src/types"](../modules/_packages_keyring_src_types_.md) / KeyringPair$Json
 
 # Interface: KeyringPair$Json
 
@@ -17,32 +19,32 @@
 
 ## Properties
 
-###  address
+### address
 
-• **address**: *string*
+•  **address**: string
 
-*Defined in [packages/keyring/src/types.ts:25](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L25)*
-
-___
-
-###  encoded
-
-• **encoded**: *string*
-
-*Defined in [packages/keyring/src/types.ts:26](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L26)*
+*Defined in [packages/keyring/src/types.ts:25](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L25)*
 
 ___
 
-###  encoding
+### encoded
 
-• **encoding**: *[KeyringPair$JsonEncoding](_packages_keyring_src_types_.keyringpair_jsonencoding.md)*
+•  **encoded**: string
 
-*Defined in [packages/keyring/src/types.ts:27](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L27)*
+*Defined in [packages/keyring/src/types.ts:26](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L26)*
 
 ___
 
-###  meta
+### encoding
 
-• **meta**: *[KeyringPair$Meta](../modules/_packages_keyring_src_types_.md#keyringpairmeta)*
+•  **encoding**: [KeyringPair$JsonEncoding](_packages_keyring_src_types_.keyringpair_jsonencoding.md)
 
-*Defined in [packages/keyring/src/types.ts:28](https://github.com/polkadot-js/common/blob/4111122c/packages/keyring/src/types.ts#L28)*
+*Defined in [packages/keyring/src/types.ts:27](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L27)*
+
+___
+
+### meta
+
+•  **meta**: [KeyringPair$Meta](../modules/_packages_keyring_src_types_.md#keyringpair$meta)
+
+*Defined in [packages/keyring/src/types.ts:28](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L28)*

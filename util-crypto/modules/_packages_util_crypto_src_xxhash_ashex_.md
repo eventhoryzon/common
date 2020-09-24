@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/xxhash/asHex"](_packages_util_crypto_src_xxhash_ashex_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/xxhash/asHex"
 
 # Module: "packages/util-crypto/src/xxhash/asHex"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  xxhashAsHex
+### xxhashAsHex
 
-▸ **xxhashAsHex**(`data`: Buffer | Uint8Array | string, `bitLength`: number): *string*
+▸ **xxhashAsHex**(`data`: Buffer \| Uint8Array \| string, `bitLength`: number): string
 
-*Defined in [packages/util-crypto/src/xxhash/asHex.ts:22](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/xxhash/asHex.ts#L22)*
+*Defined in [packages/util-crypto/src/xxhash/asHex.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/xxhash/asHex.ts#L22)*
 
 **`name`** xxhashAsHex
 
@@ -32,11 +34,11 @@ import { xxhashAsHex } from '@polkadot/util-crypto';
 xxhashAsHex('abc'); // => 0x44bc2cf5ad770999
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`data` | Buffer &#124; Uint8Array &#124; string | - |
+`data` | Buffer \| Uint8Array \| string | - |
 `bitLength` | number | 64 |
 
-**Returns:** *string*
+**Returns:** string

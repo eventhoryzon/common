@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/is/object"](_packages_util_src_is_object_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/is/object"
 
 # Module: "packages/util/src/is/object"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  isObject
+### isObject
 
-▸ **isObject**(`value`: unknown): *value is ObjectIndexed*
+▸ **isObject**(`value`: unknown): value is ObjectIndexed
 
-*Defined in [packages/util/src/is/object.ts:24](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/is/object.ts#L24)*
+*Defined in [packages/util/src/is/object.ts:24](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/is/object.ts#L24)*
 
 **`name`** isObject
 
@@ -33,10 +35,10 @@ isObject({}); // => true
 isObject('something'); // => false
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
 `value` | unknown |
 
-**Returns:** *value is ObjectIndexed*
+**Returns:** value is ObjectIndexed

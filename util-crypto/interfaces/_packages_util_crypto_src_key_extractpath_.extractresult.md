@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/key/extractPath"](../modules/_packages_util_crypto_src_key_extractpath_.md) › [ExtractResult](_packages_util_crypto_src_key_extractpath_.extractresult.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / ["packages/util-crypto/src/key/extractPath"](../modules/_packages_util_crypto_src_key_extractpath_.md) / ExtractResult
 
 # Interface: ExtractResult
 
@@ -15,16 +17,16 @@
 
 ## Properties
 
-###  parts
+### parts
 
-• **parts**: *null | string[]*
+•  **parts**: null \| string[]
 
-*Defined in [packages/util-crypto/src/key/extractPath.ts:10](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/key/extractPath.ts#L10)*
+*Defined in [packages/util-crypto/src/key/extractPath.ts:10](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/key/extractPath.ts#L10)*
 
 ___
 
-###  path
+### path
 
-• **path**: *[DeriveJunction](../classes/_packages_util_crypto_src_key_derivejunction_.derivejunction.md)[]*
+•  **path**: [DeriveJunction](../classes/_packages_util_crypto_src_key_derivejunction_.derivejunction.md)[]
 
-*Defined in [packages/util-crypto/src/key/extractPath.ts:11](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/key/extractPath.ts#L11)*
+*Defined in [packages/util-crypto/src/key/extractPath.ts:11](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/key/extractPath.ts#L11)*

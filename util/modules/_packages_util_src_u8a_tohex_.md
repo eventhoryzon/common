@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/u8a/toHex"](_packages_util_src_u8a_tohex_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/u8a/toHex"
 
 # Module: "packages/util/src/u8a/toHex"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  u8aToHex
+### u8aToHex
 
-▸ **u8aToHex**(`value?`: Uint8Array | null, `bitLength`: number, `isPrefixed`: boolean): *string*
+▸ **u8aToHex**(`value?`: Uint8Array \| null, `bitLength`: number, `isPrefixed`: boolean): string
 
-*Defined in [packages/util/src/u8a/toHex.ts:24](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/u8a/toHex.ts#L24)*
+*Defined in [packages/util/src/u8a/toHex.ts:24](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/u8a/toHex.ts#L24)*
 
 **`name`** u8aToHex
 
@@ -32,12 +34,12 @@ import { u8aToHex } from '@polkadot/util';
 u8aToHex(new Uint8Array([0x68, 0x65, 0x6c, 0x6c, 0xf])); // 0x68656c0f
 ```
 
-**Parameters:**
+#### Parameters:
 
-Name | Type | Default |
+Name | Type | Default value |
 ------ | ------ | ------ |
-`value?` | Uint8Array &#124; null | - |
+`value?` | Uint8Array \| null | - |
 `bitLength` | number | -1 |
 `isPrefixed` | boolean | true |
 
-**Returns:** *string*
+**Returns:** string

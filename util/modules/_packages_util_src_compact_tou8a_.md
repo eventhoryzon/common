@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util/src/compact/toU8a"](_packages_util_src_compact_tou8a_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util/src/compact/toU8a"
 
 # Module: "packages/util/src/compact/toU8a"
 
@@ -10,11 +12,11 @@
 
 ## Functions
 
-###  compactToU8a
+### compactToU8a
 
-▸ **compactToU8a**(`_value`: BN | BigInt | number): *Uint8Array*
+▸ **compactToU8a**(`_value`: BN \| BigInt \| number): Uint8Array
 
-*Defined in [packages/util/src/compact/toU8a.ts:26](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/compact/toU8a.ts#L26)*
+*Defined in [packages/util/src/compact/toU8a.ts:26](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/compact/toU8a.ts#L26)*
 
 **`name`** compactToU8a
 
@@ -29,10 +31,10 @@ import { compactToU8a } from '@polkadot/util';
 console.log(compactToU8a(511, 32)); // Uint8Array([0b11111101, 0b00000111])
 ```
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`_value` | BN &#124; BigInt &#124; number |
+`_value` | BN \| BigInt \| number |
 
-**Returns:** *Uint8Array*
+**Returns:** Uint8Array

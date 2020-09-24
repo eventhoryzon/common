@@ -1,4 +1,6 @@
-[Polkadot JS Common](../README.md) › [Globals](../globals.md) › ["packages/util-crypto/src/ethereum/isAddress"](_packages_util_crypto_src_ethereum_isaddress_.md)
+**Polkadot JS Common**
+
+> [README](../README.md) / [Globals](../globals.md) / "packages/util-crypto/src/ethereum/isAddress"
 
 # Module: "packages/util-crypto/src/ethereum/isAddress"
 
@@ -10,16 +12,16 @@
 
 ## Functions
 
-###  isEthereumAddress
+### isEthereumAddress
 
-▸ **isEthereumAddress**(`address?`: undefined | string): *boolean*
+▸ **isEthereumAddress**(`address?`: undefined \| string): boolean
 
-*Defined in [packages/util-crypto/src/ethereum/isAddress.ts:8](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/ethereum/isAddress.ts#L8)*
+*Defined in [packages/util-crypto/src/ethereum/isAddress.ts:8](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/ethereum/isAddress.ts#L8)*
 
-**Parameters:**
+#### Parameters:
 
 Name | Type |
 ------ | ------ |
-`address?` | undefined &#124; string |
+`address?` | undefined \| string |
 
-**Returns:** *boolean*
+**Returns:** boolean
