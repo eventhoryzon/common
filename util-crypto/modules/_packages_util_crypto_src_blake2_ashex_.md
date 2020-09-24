@@ -16,7 +16,7 @@
 
 ▸ **blake2AsHex**(`data`: Uint8Array \| string, `bitLength`: number): string
 
-*Defined in [packages/util-crypto/src/blake2/asHex.ts:22](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/blake2/asHex.ts#L22)*
+*Defined in [packages/util-crypto/src/blake2/asHex.ts:22](https://github.com/polkadot-js/common/blob/aff78c2e/packages/util-crypto/src/blake2/asHex.ts#L22)*
 
 **`name`** blake2AsHex
 

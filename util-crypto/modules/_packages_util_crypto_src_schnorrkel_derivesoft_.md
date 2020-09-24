@@ -16,7 +16,7 @@
 
 ▸ **deriveSoft**(`keypair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `chainCode`: Uint8Array): [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)
 
-*Defined in [packages/util-crypto/src/schnorrkel/deriveSoft.ts:13](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/schnorrkel/deriveSoft.ts#L13)*
+*Defined in [packages/util-crypto/src/schnorrkel/deriveSoft.ts:13](https://github.com/polkadot-js/common/blob/aff78c2e/packages/util-crypto/src/schnorrkel/deriveSoft.ts#L13)*
 
 #### Parameters:
 

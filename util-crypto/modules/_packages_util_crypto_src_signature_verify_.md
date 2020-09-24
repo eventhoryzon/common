@@ -16,7 +16,7 @@
 
 ▸ **signatureVerify**(`message`: Uint8Array \| string, `signature`: Uint8Array \| string, `addressOrPublicKey`: Uint8Array \| string): [VerifyResult](../interfaces/_packages_util_crypto_src_types_.verifyresult.md)
 
-*Defined in [packages/util-crypto/src/signature/verify.ts:73](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util-crypto/src/signature/verify.ts#L73)*
+*Defined in [packages/util-crypto/src/signature/verify.ts:73](https://github.com/polkadot-js/common/blob/aff78c2e/packages/util-crypto/src/signature/verify.ts#L73)*
 
 #### Parameters:
 

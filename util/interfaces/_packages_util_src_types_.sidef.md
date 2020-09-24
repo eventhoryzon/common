@@ -22,7 +22,7 @@
 
 •  **power**: number
 
-*Defined in [packages/util/src/types.ts:17](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L17)*
+*Defined in [packages/util/src/types.ts:17](https://github.com/polkadot-js/common/blob/aff78c2e/packages/util/src/types.ts#L17)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 •  **text**: string
 
-*Defined in [packages/util/src/types.ts:18](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L18)*
+*Defined in [packages/util/src/types.ts:18](https://github.com/polkadot-js/common/blob/aff78c2e/packages/util/src/types.ts#L18)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 •  **value**: string
 
-*Defined in [packages/util/src/types.ts:19](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/types.ts#L19)*
+*Defined in [packages/util/src/types.ts:19](https://github.com/polkadot-js/common/blob/aff78c2e/packages/util/src/types.ts#L19)*

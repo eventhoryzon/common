@@ -20,4 +20,4 @@
 
 • `Optional` **withType**: undefined \| false \| true
 
-*Defined in [packages/keyring/src/types.ts:32](https://github.com/polkadot-js/common/blob/ce964d2f/packages/keyring/src/types.ts#L32)*
+*Defined in [packages/keyring/src/types.ts:32](https://github.com/polkadot-js/common/blob/aff78c2e/packages/keyring/src/types.ts#L32)*

@@ -16,7 +16,7 @@
 
 ▸ **u8aToHex**(`value?`: Uint8Array \| null, `bitLength`: number, `isPrefixed`: boolean): string
 
-*Defined in [packages/util/src/u8a/toHex.ts:24](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/u8a/toHex.ts#L24)*
+*Defined in [packages/util/src/u8a/toHex.ts:24](https://github.com/polkadot-js/common/blob/aff78c2e/packages/util/src/u8a/toHex.ts#L24)*
 
 **`name`** u8aToHex
 

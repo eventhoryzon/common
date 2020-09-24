@@ -16,7 +16,7 @@
 
 ▸ **numberToHex**(`value?`: number \| null, `bitLength`: number): string
 
-*Defined in [packages/util/src/number/toHex.ts:23](https://github.com/polkadot-js/common/blob/ce964d2f/packages/util/src/number/toHex.ts#L23)*
+*Defined in [packages/util/src/number/toHex.ts:23](https://github.com/polkadot-js/common/blob/aff78c2e/packages/util/src/number/toHex.ts#L23)*
 
 **`name`** numberToHex
 
