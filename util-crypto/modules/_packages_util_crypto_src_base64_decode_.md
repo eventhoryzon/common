@@ -14,7 +14,7 @@
 
 ▸ **base64Decode**(`value`: string): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/base64/decode.ts:14](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util-crypto/src/base64/decode.ts#L14)*
+*Defined in [packages/util-crypto/src/base64/decode.ts:14](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/base64/decode.ts#L14)*
 
 **`name`** base64Decode
 

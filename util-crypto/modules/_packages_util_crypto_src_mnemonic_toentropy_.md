@@ -14,7 +14,7 @@
 
 ▸ **toEntropy**(`mnemonic`: string): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/mnemonic/toEntropy.ts:10](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util-crypto/src/mnemonic/toEntropy.ts#L10)*
+*Defined in [packages/util-crypto/src/mnemonic/toEntropy.ts:10](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/mnemonic/toEntropy.ts#L10)*
 
 **Parameters:**
 

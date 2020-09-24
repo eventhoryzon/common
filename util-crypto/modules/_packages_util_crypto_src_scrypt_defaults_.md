@@ -14,22 +14,22 @@
 
 ### ▪ **DEFAULT_PARAMS**: *object*
 
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:4](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util-crypto/src/scrypt/defaults.ts#L4)*
+*Defined in [packages/util-crypto/src/scrypt/defaults.ts:4](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/defaults.ts#L4)*
 
 ###  N
 
 • **N**: *number* = 1 << 15
 
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:5](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util-crypto/src/scrypt/defaults.ts#L5)*
+*Defined in [packages/util-crypto/src/scrypt/defaults.ts:5](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/defaults.ts#L5)*
 
 ###  p
 
 • **p**: *number* = 1
 
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:6](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util-crypto/src/scrypt/defaults.ts#L6)*
+*Defined in [packages/util-crypto/src/scrypt/defaults.ts:6](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/defaults.ts#L6)*
 
 ###  r
 
 • **r**: *number* = 8
 
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:7](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util-crypto/src/scrypt/defaults.ts#L7)*
+*Defined in [packages/util-crypto/src/scrypt/defaults.ts:7](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/scrypt/defaults.ts#L7)*

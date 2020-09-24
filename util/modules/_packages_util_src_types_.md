@@ -24,7 +24,7 @@
 
 Ƭ **BnList**: *object & BN[]*
 
-*Defined in [packages/util/src/types.ts:38](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util/src/types.ts#L38)*
+*Defined in [packages/util/src/types.ts:38](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L38)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 Ƭ **Logger$Data**: *(unknown | Logger$Data$Fn)[]*
 
-*Defined in [packages/util/src/types.ts:23](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util/src/types.ts#L23)*
+*Defined in [packages/util/src/types.ts:23](https://github.com/polkadot-js/common/blob/4111122c/packages/util/src/types.ts#L23)*

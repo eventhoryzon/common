@@ -14,7 +14,7 @@
 
 ▸ **secp256k1Recover**(`message`: Uint8Array, `signature`: Uint8Array, `recovery`: number): *Uint8Array*
 
-*Defined in [packages/util-crypto/src/secp256k1/recover.ts:13](https://github.com/polkadot-js/common/blob/e7c665e5/packages/util-crypto/src/secp256k1/recover.ts#L13)*
+*Defined in [packages/util-crypto/src/secp256k1/recover.ts:13](https://github.com/polkadot-js/common/blob/4111122c/packages/util-crypto/src/secp256k1/recover.ts#L13)*
 
 **`name`** secp256k1Recover
 
