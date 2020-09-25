@@ -21,7 +21,7 @@
 
 • `Optional` **isLe**: undefined \| false \| true
 
-*Defined in [packages/util/src/types.ts:34](https://github.com/polkadot-js/common/blob/bd1735ca/packages/util/src/types.ts#L34)*
+*Defined in [packages/util/src/types.ts:34](https://github.com/polkadot-js/common/blob/30198d1a/packages/util/src/types.ts#L34)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • `Optional` **isNegative**: undefined \| false \| true
 
-*Defined in [packages/util/src/types.ts:35](https://github.com/polkadot-js/common/blob/bd1735ca/packages/util/src/types.ts#L35)*
+*Defined in [packages/util/src/types.ts:35](https://github.com/polkadot-js/common/blob/30198d1a/packages/util/src/types.ts#L35)*

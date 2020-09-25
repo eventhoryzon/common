@@ -16,7 +16,7 @@
 
 ▸ **keyHdkdEcdsa**(`keypair`: [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md), `__namedParameters`: { chainCode: Uint8Array ; isHard: boolean  }): [Keypair](../interfaces/_packages_util_crypto_src_types_.keypair.md)
 
-*Defined in [packages/util-crypto/src/key/hdkdEcdsa.ts:12](https://github.com/polkadot-js/common/blob/bd1735ca/packages/util-crypto/src/key/hdkdEcdsa.ts#L12)*
+*Defined in [packages/util-crypto/src/key/hdkdEcdsa.ts:12](https://github.com/polkadot-js/common/blob/30198d1a/packages/util-crypto/src/key/hdkdEcdsa.ts#L12)*
 
 #### Parameters:
 

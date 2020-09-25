@@ -21,7 +21,7 @@
 
 • `Optional` **ss58Format**: Prefix
 
-*Defined in [packages/keyring/src/types.ts:8](https://github.com/polkadot-js/common/blob/bd1735ca/packages/keyring/src/types.ts#L8)*
+*Defined in [packages/keyring/src/types.ts:8](https://github.com/polkadot-js/common/blob/30198d1a/packages/keyring/src/types.ts#L8)*
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 • `Optional` **type**: KeypairType
 
-*Defined in [packages/keyring/src/types.ts:9](https://github.com/polkadot-js/common/blob/bd1735ca/packages/keyring/src/types.ts#L9)*
+*Defined in [packages/keyring/src/types.ts:9](https://github.com/polkadot-js/common/blob/30198d1a/packages/keyring/src/types.ts#L9)*

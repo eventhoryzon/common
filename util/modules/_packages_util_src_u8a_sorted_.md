@@ -16,7 +16,7 @@
 
 ▸ **u8aSorted**(`u8as`: Uint8Array[]): Uint8Array[]
 
-*Defined in [packages/util/src/u8a/sorted.ts:6](https://github.com/polkadot-js/common/blob/bd1735ca/packages/util/src/u8a/sorted.ts#L6)*
+*Defined in [packages/util/src/u8a/sorted.ts:6](https://github.com/polkadot-js/common/blob/30198d1a/packages/util/src/u8a/sorted.ts#L6)*
 
 #### Parameters:
 

@@ -16,7 +16,7 @@
 
 ▸ **isBase32**(`value?`: string \| null): boolean
 
-*Defined in [packages/util-crypto/src/base32/is.ts:6](https://github.com/polkadot-js/common/blob/bd1735ca/packages/util-crypto/src/base32/is.ts#L6)*
+*Defined in [packages/util-crypto/src/base32/is.ts:6](https://github.com/polkadot-js/common/blob/30198d1a/packages/util-crypto/src/base32/is.ts#L6)*
 
 #### Parameters:
 
