@@ -22,7 +22,7 @@
 
 •  **publicKey**: Uint8Array
 
-*Defined in [packages/keyring/src/pair/types.ts:5](https://github.com/polkadot-js/common/blob/30198d1a/packages/keyring/src/pair/types.ts#L5)*
+*Defined in [packages/keyring/src/pair/types.ts:5](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/types.ts#L5)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 • `Optional` **secretKey**: Uint8Array
 
-*Defined in [packages/keyring/src/pair/types.ts:6](https://github.com/polkadot-js/common/blob/30198d1a/packages/keyring/src/pair/types.ts#L6)*
+*Defined in [packages/keyring/src/pair/types.ts:6](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/types.ts#L6)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 • `Optional` **seed**: Uint8Array \| null
 
-*Defined in [packages/keyring/src/pair/types.ts:7](https://github.com/polkadot-js/common/blob/30198d1a/packages/keyring/src/pair/types.ts#L7)*
+*Defined in [packages/keyring/src/pair/types.ts:7](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/types.ts#L7)*

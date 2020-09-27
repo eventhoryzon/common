@@ -17,7 +17,7 @@
 
 ▸ **isReady**(): boolean
 
-*Defined in [packages/util-crypto/src/noWasm.ts:4](https://github.com/polkadot-js/common/blob/30198d1a/packages/util-crypto/src/noWasm.ts#L4)*
+*Defined in [packages/util-crypto/src/noWasm.ts:4](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/noWasm.ts#L4)*
 
 **Returns:** boolean
 
@@ -27,6 +27,6 @@ ___
 
 ▸ **waitReady**(): Promise\<boolean>
 
-*Defined in [packages/util-crypto/src/noWasm.ts:9](https://github.com/polkadot-js/common/blob/30198d1a/packages/util-crypto/src/noWasm.ts#L9)*
+*Defined in [packages/util-crypto/src/noWasm.ts:9](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/noWasm.ts#L9)*
 
 **Returns:** Promise\<boolean>

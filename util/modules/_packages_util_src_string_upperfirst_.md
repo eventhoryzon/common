@@ -16,7 +16,7 @@
 
 ▸ **stringUpperFirst**(`value?`: string \| null): string
 
-*Defined in [packages/util/src/string/upperFirst.ts:18](https://github.com/polkadot-js/common/blob/30198d1a/packages/util/src/string/upperFirst.ts#L18)*
+*Defined in [packages/util/src/string/upperFirst.ts:18](https://github.com/polkadot-js/common/blob/c366e637/packages/util/src/string/upperFirst.ts#L18)*
 
 **`name`** stringUpperFirst
 

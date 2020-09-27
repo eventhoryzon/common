@@ -16,7 +16,7 @@
 
 ▸ **extractTime**(`milliseconds?`: undefined \| number): [Time](../interfaces/_packages_util_src_types_.time.md)
 
-*Defined in [packages/util/src/extractTime.ts:38](https://github.com/polkadot-js/common/blob/30198d1a/packages/util/src/extractTime.ts#L38)*
+*Defined in [packages/util/src/extractTime.ts:38](https://github.com/polkadot-js/common/blob/c366e637/packages/util/src/extractTime.ts#L38)*
 
 **`name`** extractTime
 
