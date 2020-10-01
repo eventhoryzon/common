@@ -16,7 +16,7 @@
 
 ▸ **isBase64**(`value?`: string \| null): boolean
 
-*Defined in [packages/util-crypto/src/base64/is.ts:6](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/base64/is.ts#L6)*
+*Defined in [packages/util-crypto/src/base64/is.ts:6](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/base64/is.ts#L6)*
 
 #### Parameters:
 

@@ -17,7 +17,7 @@
 
 • `Const` **BASE58\_ALPHABET**: \"123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz\" = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz"
 
-*Defined in [packages/util-crypto/src/base58/bs58.ts:7](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/base58/bs58.ts#L7)*
+*Defined in [packages/util-crypto/src/base58/bs58.ts:7](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/base58/bs58.ts#L7)*
 
 ___
 
@@ -25,4 +25,4 @@ ___
 
 • `Const` **bs58**: BaseConverter = baseX(BASE58\_ALPHABET)
 
-*Defined in [packages/util-crypto/src/base58/bs58.ts:9](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/base58/bs58.ts#L9)*
+*Defined in [packages/util-crypto/src/base58/bs58.ts:9](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/base58/bs58.ts#L9)*

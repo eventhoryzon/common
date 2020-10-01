@@ -24,7 +24,7 @@
 
 • `Const` **ENCODING**: [KeyringPair$JsonEncodingTypes](_packages_keyring_src_types_.md#keyringpair$jsonencodingtypes)[] = ['scrypt', 'xsalsa20-poly1305']
 
-*Defined in [packages/keyring/src/pair/defaults.ts:6](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L6)*
+*Defined in [packages/keyring/src/pair/defaults.ts:6](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L6)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 • `Const` **NONCE\_LENGTH**: 24 = 24
 
-*Defined in [packages/keyring/src/pair/defaults.ts:7](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L7)*
+*Defined in [packages/keyring/src/pair/defaults.ts:7](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L7)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 • `Const` **PKCS8\_DIVIDER**: Uint8Array = new Uint8Array([161, 35, 3, 33, 0])
 
-*Defined in [packages/keyring/src/pair/defaults.ts:8](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L8)*
+*Defined in [packages/keyring/src/pair/defaults.ts:8](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L8)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 • `Const` **PKCS8\_HEADER**: Uint8Array = new Uint8Array([48, 83, 2, 1, 1, 48, 5, 6, 3, 43, 101, 112, 4, 34, 4, 32])
 
-*Defined in [packages/keyring/src/pair/defaults.ts:9](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L9)*
+*Defined in [packages/keyring/src/pair/defaults.ts:9](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L9)*
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 • `Const` **PUB\_LENGTH**: 32 = 32
 
-*Defined in [packages/keyring/src/pair/defaults.ts:10](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L10)*
+*Defined in [packages/keyring/src/pair/defaults.ts:10](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L10)*
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 • `Const` **SALT\_LENGTH**: 32 = 32
 
-*Defined in [packages/keyring/src/pair/defaults.ts:11](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L11)*
+*Defined in [packages/keyring/src/pair/defaults.ts:11](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L11)*
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 • `Const` **SCRYPT\_LENGTH**: number = SALT\_LENGTH + (3 * 4)
 
-*Defined in [packages/keyring/src/pair/defaults.ts:14](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L14)*
+*Defined in [packages/keyring/src/pair/defaults.ts:14](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L14)*
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 • `Const` **SEC\_LENGTH**: 64 = 64
 
-*Defined in [packages/keyring/src/pair/defaults.ts:12](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L12)*
+*Defined in [packages/keyring/src/pair/defaults.ts:12](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L12)*
 
 ___
 
@@ -88,4 +88,4 @@ ___
 
 • `Const` **SEED\_LENGTH**: 32 = 32
 
-*Defined in [packages/keyring/src/pair/defaults.ts:13](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/pair/defaults.ts#L13)*
+*Defined in [packages/keyring/src/pair/defaults.ts:13](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/pair/defaults.ts#L13)*

@@ -16,7 +16,7 @@
 
 ▪ `Const` **DEFAULT\_PARAMS**: object
 
-*Defined in [packages/util-crypto/src/scrypt/defaults.ts:4](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/scrypt/defaults.ts#L4)*
+*Defined in [packages/util-crypto/src/scrypt/defaults.ts:4](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/scrypt/defaults.ts#L4)*
 
 #### Properties:
 

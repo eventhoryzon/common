@@ -22,7 +22,7 @@
 
 •  **content**: [\"pkcs8\", KeypairType]
 
-*Defined in [packages/keyring/src/types.ts:19](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/types.ts#L19)*
+*Defined in [packages/keyring/src/types.ts:19](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/types.ts#L19)*
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 •  **type**: [KeyringPair$JsonEncodingTypes](../modules/_packages_keyring_src_types_.md#keyringpair$jsonencodingtypes) \| [KeyringPair$JsonEncodingTypes](../modules/_packages_keyring_src_types_.md#keyringpair$jsonencodingtypes)[]
 
-*Defined in [packages/keyring/src/types.ts:20](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/types.ts#L20)*
+*Defined in [packages/keyring/src/types.ts:20](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/types.ts#L20)*
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 •  **version**: [KeyringPair$JsonVersion](../modules/_packages_keyring_src_types_.md#keyringpair$jsonversion)
 
-*Defined in [packages/keyring/src/types.ts:21](https://github.com/polkadot-js/common/blob/c366e637/packages/keyring/src/types.ts#L21)*
+*Defined in [packages/keyring/src/types.ts:21](https://github.com/polkadot-js/common/blob/dd1220ac/packages/keyring/src/types.ts#L21)*

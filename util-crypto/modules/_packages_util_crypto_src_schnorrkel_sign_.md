@@ -16,7 +16,7 @@
 
 ▸ **schnorrkelSign**(`message`: Uint8Array \| string, `__namedParameters`: { publicKey: undefined \| Uint8Array ; secretKey: undefined \| Uint8Array  }): Uint8Array
 
-*Defined in [packages/util-crypto/src/schnorrkel/sign.ts:15](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/schnorrkel/sign.ts#L15)*
+*Defined in [packages/util-crypto/src/schnorrkel/sign.ts:15](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/schnorrkel/sign.ts#L15)*
 
 **`name`** schnorrkelSign
 

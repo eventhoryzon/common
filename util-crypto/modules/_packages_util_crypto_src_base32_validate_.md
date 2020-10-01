@@ -16,7 +16,7 @@
 
 ▸ **base32Validate**(`value?`: string \| null, `ipfsCompat`: boolean): true
 
-*Defined in [packages/util-crypto/src/base32/validate.ts:13](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/base32/validate.ts#L13)*
+*Defined in [packages/util-crypto/src/base32/validate.ts:13](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/base32/validate.ts#L13)*
 
 **`name`** base32Validate
 

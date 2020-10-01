@@ -16,7 +16,7 @@
 
 ▸ **randomAsNumber**(): number
 
-*Defined in [packages/util-crypto/src/random/asNumber.ts:25](https://github.com/polkadot-js/common/blob/c366e637/packages/util-crypto/src/random/asNumber.ts#L25)*
+*Defined in [packages/util-crypto/src/random/asNumber.ts:25](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/random/asNumber.ts#L25)*
 
 **`name`** randomAsNumber
 
