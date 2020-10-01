@@ -16,7 +16,7 @@
 
 ▸ **deriveSoft**(`publicKey`: Uint8Array, `chainCode`: Uint8Array): Uint8Array
 
-*Defined in [packages/util-crypto/src/schnorrkel/derivePublic.ts:8](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/schnorrkel/derivePublic.ts#L8)*
+*Defined in [packages/util-crypto/src/schnorrkel/derivePublic.ts:8](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/schnorrkel/derivePublic.ts#L8)*
 
 #### Parameters:
 

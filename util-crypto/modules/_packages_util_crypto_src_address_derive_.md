@@ -16,7 +16,7 @@
 
 ▸ **deriveAddress**(`who`: Uint8Array \| string, `suri`: string, `ss58Format?`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): string
 
-*Defined in [packages/util-crypto/src/address/derive.ts:20](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/address/derive.ts#L20)*
+*Defined in [packages/util-crypto/src/address/derive.ts:20](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/address/derive.ts#L20)*
 
 **`name`** deriveAddress
 

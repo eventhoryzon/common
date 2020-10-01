@@ -16,7 +16,7 @@
 
 ▸ **isAscii**(`value?`: number[] \| Buffer \| Uint8Array \| string \| null): boolean
 
-*Defined in [packages/util/src/is/ascii.ts:15](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util/src/is/ascii.ts#L15)*
+*Defined in [packages/util/src/is/ascii.ts:15](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/is/ascii.ts#L15)*
 
 **`name`** isAscii
 

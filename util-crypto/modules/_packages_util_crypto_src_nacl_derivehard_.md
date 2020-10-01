@@ -16,7 +16,7 @@
 
 ▸ **deriveHard**(`seed`: Uint8Array, `chainCode`: Uint8Array): Uint8Array
 
-*Defined in [packages/util-crypto/src/nacl/deriveHard.ts:10](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/nacl/deriveHard.ts#L10)*
+*Defined in [packages/util-crypto/src/nacl/deriveHard.ts:10](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/nacl/deriveHard.ts#L10)*
 
 #### Parameters:
 

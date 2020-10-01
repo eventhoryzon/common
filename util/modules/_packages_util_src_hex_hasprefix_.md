@@ -16,7 +16,7 @@
 
 ▸ **hexHasPrefix**(`value?`: string \| null): boolean
 
-*Defined in [packages/util/src/hex/hasPrefix.ts:20](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util/src/hex/hasPrefix.ts#L20)*
+*Defined in [packages/util/src/hex/hasPrefix.ts:20](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/hex/hasPrefix.ts#L20)*
 
 **`name`** hexHasPrefix
 

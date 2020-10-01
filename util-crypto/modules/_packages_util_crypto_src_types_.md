@@ -22,4 +22,4 @@
 
 Ƭ  **KeypairType**: \"ed25519\" \| \"sr25519\" \| \"ecdsa\" \| \"ethereum\"
 
-*Defined in [packages/util-crypto/src/types.ts:14](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/types.ts#L14)*
+*Defined in [packages/util-crypto/src/types.ts:14](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/types.ts#L14)*

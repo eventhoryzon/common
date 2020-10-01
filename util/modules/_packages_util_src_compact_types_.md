@@ -16,4 +16,4 @@
 
 Ƭ  **BitLength**: 8 \| 16 \| 32 \| 64 \| 128 \| 256
 
-*Defined in [packages/util/src/compact/types.ts:4](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util/src/compact/types.ts#L4)*
+*Defined in [packages/util/src/compact/types.ts:4](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/compact/types.ts#L4)*

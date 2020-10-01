@@ -16,7 +16,7 @@
 
 ▸ **base64Trim**(`value`: string): string
 
-*Defined in [packages/util-crypto/src/base64/trim.ts:4](https://github.com/polkadot-js/common/blob/dd1220ac/packages/util-crypto/src/base64/trim.ts#L4)*
+*Defined in [packages/util-crypto/src/base64/trim.ts:4](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/base64/trim.ts#L4)*
 
 #### Parameters:
 
