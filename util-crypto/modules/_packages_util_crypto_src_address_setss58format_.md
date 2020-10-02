@@ -16,7 +16,7 @@
 
 ▸ **setSS58Format**(`prefix`: [Prefix](_packages_util_crypto_src_address_types_.md#prefix)): void
 
-*Defined in [packages/util-crypto/src/address/setSS58Format.ts:12](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/address/setSS58Format.ts#L12)*
+*Defined in [packages/util-crypto/src/address/setSS58Format.ts:12](https://github.com/polkadot-js/common/blob/975103fd/packages/util-crypto/src/address/setSS58Format.ts#L12)*
 
 **`description`** Sets the global SS58 format to use for address encoding
 

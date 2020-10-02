@@ -24,7 +24,7 @@
 
 •  **debug**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:26](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/types.ts#L26)*
+*Defined in [packages/util/src/types.ts:26](https://github.com/polkadot-js/common/blob/975103fd/packages/util/src/types.ts#L26)*
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 •  **error**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:27](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/types.ts#L27)*
+*Defined in [packages/util/src/types.ts:27](https://github.com/polkadot-js/common/blob/975103fd/packages/util/src/types.ts#L27)*
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 •  **log**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:28](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/types.ts#L28)*
+*Defined in [packages/util/src/types.ts:28](https://github.com/polkadot-js/common/blob/975103fd/packages/util/src/types.ts#L28)*
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 •  **noop**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:29](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/types.ts#L29)*
+*Defined in [packages/util/src/types.ts:29](https://github.com/polkadot-js/common/blob/975103fd/packages/util/src/types.ts#L29)*
 
 ___
 
@@ -56,4 +56,4 @@ ___
 
 •  **warn**: (...values: [Logger$Data](../modules/_packages_util_src_types_.md#logger$data)) => void
 
-*Defined in [packages/util/src/types.ts:30](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/types.ts#L30)*
+*Defined in [packages/util/src/types.ts:30](https://github.com/polkadot-js/common/blob/975103fd/packages/util/src/types.ts#L30)*

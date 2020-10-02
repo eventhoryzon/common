@@ -16,7 +16,7 @@
 
 ▸ **base58Encode**(`value`: Uint8Array \| string \| Buffer \| number[], `ipfsCompat?`: undefined \| false \| true): string
 
-*Defined in [packages/util-crypto/src/base58/encode.ts:14](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/base58/encode.ts#L14)*
+*Defined in [packages/util-crypto/src/base58/encode.ts:14](https://github.com/polkadot-js/common/blob/975103fd/packages/util-crypto/src/base58/encode.ts#L14)*
 
 **`name`** base58Encode
 

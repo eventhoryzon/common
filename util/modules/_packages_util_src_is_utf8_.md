@@ -16,7 +16,7 @@
 
 ▸ **isUtf8**(`value?`: number[] \| Buffer \| Uint8Array \| string \| null): boolean
 
-*Defined in [packages/util/src/is/utf8.ts:15](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/is/utf8.ts#L15)*
+*Defined in [packages/util/src/is/utf8.ts:15](https://github.com/polkadot-js/common/blob/975103fd/packages/util/src/is/utf8.ts#L15)*
 
 **`name`** isUtf8
 

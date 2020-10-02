@@ -20,7 +20,7 @@
 
 ▸ **testKeyringPairs**(`options?`: [KeyringOptions](../interfaces/_packages_keyring_src_types_.keyringoptions.md), `isDerived`: boolean): [TestKeyringMap](../interfaces/_packages_keyring_src_testingpairs_.testkeyringmap.md)
 
-*Defined in [packages/keyring/src/testingPairs.ts:13](https://github.com/polkadot-js/common/blob/13ae8665/packages/keyring/src/testingPairs.ts#L13)*
+*Defined in [packages/keyring/src/testingPairs.ts:13](https://github.com/polkadot-js/common/blob/975103fd/packages/keyring/src/testingPairs.ts#L13)*
 
 #### Parameters:
 

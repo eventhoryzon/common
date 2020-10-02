@@ -20,4 +20,4 @@
 
 •  **toBn**: () => BN
 
-*Defined in [packages/util/src/types.ts:13](https://github.com/polkadot-js/common/blob/13ae8665/packages/util/src/types.ts#L13)*
+*Defined in [packages/util/src/types.ts:13](https://github.com/polkadot-js/common/blob/975103fd/packages/util/src/types.ts#L13)*

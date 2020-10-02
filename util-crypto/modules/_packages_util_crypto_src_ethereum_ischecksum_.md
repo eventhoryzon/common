@@ -16,7 +16,7 @@
 
 ▸ **isEthereumChecksum**(`_address`: string): boolean
 
-*Defined in [packages/util-crypto/src/ethereum/isChecksum.ts:8](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/ethereum/isChecksum.ts#L8)*
+*Defined in [packages/util-crypto/src/ethereum/isChecksum.ts:8](https://github.com/polkadot-js/common/blob/975103fd/packages/util-crypto/src/ethereum/isChecksum.ts#L8)*
 
 #### Parameters:
 

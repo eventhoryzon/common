@@ -16,7 +16,7 @@
 
 ▸ **toLegacy**(`mnemonic`: string, `password`: string): Uint8Array
 
-*Defined in [packages/util-crypto/src/mnemonic/toLegacySeed.ts:26](https://github.com/polkadot-js/common/blob/13ae8665/packages/util-crypto/src/mnemonic/toLegacySeed.ts#L26)*
+*Defined in [packages/util-crypto/src/mnemonic/toLegacySeed.ts:26](https://github.com/polkadot-js/common/blob/975103fd/packages/util-crypto/src/mnemonic/toLegacySeed.ts#L26)*
 
 **`name`** toSeed
 
